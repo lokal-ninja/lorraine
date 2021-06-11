@@ -1,6 +1,6 @@
 ---
 title: Phalsbourg
 url: /phalsbourg/
-latitude: 48.767098000000004
-longitude: 7.258620700000001
+latitude: 48.869461
+longitude: 6.558433300000001
 ---

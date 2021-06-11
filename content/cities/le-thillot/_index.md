@@ -1,6 +1,6 @@
 ---
 title: Le Thillot
 url: /le-thillot/
-latitude: 47.8809276
-longitude: 6.765795300000001
+latitude: 47.880414900000005
+longitude: 6.763381600000001
 ---
