@@ -1,5 +1,5 @@
 ---
-title: "Rossmann"
+title: "ROSSMANN"
 url: /kleinblittersdorf/rossmann/
 shop: chimiste
 ---
