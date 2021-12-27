@@ -1,6 +1,6 @@
 ---
 title: Girancourt
 url: /girancourt/
-latitude: 48.163700000000006
-longitude: 6.3079
+latitude: 48.162
+longitude: 6.305
 ---

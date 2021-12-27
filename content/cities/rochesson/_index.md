@@ -1,6 +1,6 @@
 ---
 title: Rochesson
 url: /rochesson/
-latitude: 48.022576400000005
-longitude: 6.7854407000000005
+latitude: 48.03
+longitude: 6.823
 ---

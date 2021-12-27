@@ -1,6 +1,6 @@
 ---
 title: Théding
 url: /theding/
-latitude: 49.1288252
-longitude: 6.893732600000001
+latitude: 49.128
+longitude: 6.893
 ---

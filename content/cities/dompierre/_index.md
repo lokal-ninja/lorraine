@@ -1,6 +1,6 @@
 ---
 title: Dompierre
 url: /dompierre/
-latitude: 48.2537674
-longitude: 6.5644464000000005
+latitude: 48.255
+longitude: 6.567
 ---

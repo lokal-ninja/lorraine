@@ -1,6 +1,6 @@
 ---
 title: Grosbliederstroff
 url: /grosbliederstroff/
-latitude: 49.1564879
-longitude: 7.0254677
+latitude: 49.156
+longitude: 7.025
 ---

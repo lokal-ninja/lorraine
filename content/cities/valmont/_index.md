@@ -1,6 +1,6 @@
 ---
 title: Valmont
 url: /valmont/
-latitude: 49.0832909
-longitude: 6.697587100000001
+latitude: 49.091
+longitude: 6.718
 ---

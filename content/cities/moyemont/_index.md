@@ -1,6 +1,6 @@
 ---
 title: Moyemont
 url: /moyemont/
-latitude: 49.317111000000004
-longitude: 5.3196840000000005
+latitude: 48.346
+longitude: 6.534
 ---

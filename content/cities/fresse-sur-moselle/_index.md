@@ -1,6 +1,6 @@
 ---
 title: Fresse-sur-Moselle
 url: /fresse-sur-moselle/
-latitude: 47.876721700000004
-longitude: 6.788101800000001
+latitude: 47.87
+longitude: 6.794
 ---

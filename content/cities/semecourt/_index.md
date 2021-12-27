@@ -1,6 +1,6 @@
 ---
 title: Semécourt
 url: /semecourt/
-latitude: 49.1938424
-longitude: 6.1352739000000005
+latitude: 49.195
+longitude: 6.147
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lantéfontaine
 url: /lantefontaine/
-latitude: 
-longitude: 
+latitude: 49.249
+longitude: 5.927
 ---

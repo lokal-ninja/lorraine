@@ -1,6 +1,6 @@
 ---
 title: Esch-sur-Alzette
 url: /esch-sur-alzette/
-latitude: 
-longitude: 
+latitude: 49.495
+longitude: 5.956
 ---

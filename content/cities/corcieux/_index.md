@@ -1,6 +1,6 @@
 ---
 title: Corcieux
 url: /corcieux/
-latitude: 48.1725865
-longitude: 6.8785935
+latitude: 48.173
+longitude: 6.88
 ---

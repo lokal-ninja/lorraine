@@ -1,6 +1,6 @@
 ---
 title: Les Poulières
 url: /les-poulieres/
-latitude: 48.1983236
-longitude: 6.791611400000001
+latitude: 48.201
+longitude: 6.798
 ---

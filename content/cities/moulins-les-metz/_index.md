@@ -1,6 +1,6 @@
 ---
 title: Moulins-lès-Metz
 url: /moulins-les-metz/
-latitude: 
-longitude: 
+latitude: 49.083
+longitude: 6.11
 ---

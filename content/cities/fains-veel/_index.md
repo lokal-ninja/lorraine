@@ -1,6 +1,6 @@
 ---
 title: Fains-Véel
 url: /fains-veel/
-latitude: 48.7913628
-longitude: 5.123842300000001
+latitude: 48.79
+longitude: 5.137
 ---

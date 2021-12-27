@@ -1,6 +1,6 @@
 ---
 title: Nonsard-Lamarche
 url: /nonsard-lamarche/
-latitude: 
-longitude: 
+latitude: 48.928
+longitude: 5.75
 ---

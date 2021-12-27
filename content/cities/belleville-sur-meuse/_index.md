@@ -1,6 +1,6 @@
 ---
 title: Belleville-sur-Meuse
 url: /belleville-sur-meuse/
-latitude: 49.1814053
-longitude: 5.370347000000001
+latitude: 49.182
+longitude: 5.368
 ---

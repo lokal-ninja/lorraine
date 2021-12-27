@@ -1,6 +1,6 @@
 ---
 title: Lemberg
 url: /lemberg/
-latitude: 
-longitude: 
+latitude: 48.997
+longitude: 7.38
 ---

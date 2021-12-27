@@ -1,6 +1,6 @@
 ---
 title: Mondelange
 url: /mondelange/
-latitude: 49.261954300000006
-longitude: 6.168332
+latitude: 49.26
+longitude: 6.175
 ---

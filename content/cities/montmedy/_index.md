@@ -1,6 +1,6 @@
 ---
 title: Montmédy
 url: /montmedy/
-latitude: 49.5194191
-longitude: 5.3672502
+latitude: 49.52
+longitude: 5.367
 ---

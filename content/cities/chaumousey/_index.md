@@ -1,6 +1,6 @@
 ---
 title: Chaumousey
 url: /chaumousey/
-latitude: 48.345297200000005
-longitude: 5.6866615000000005
+latitude: 48.174
+longitude: 6.338
 ---

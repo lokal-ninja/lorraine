@@ -1,6 +1,6 @@
 ---
 title: Val d'Ornain
 url: /val-dornain/
-latitude: 
-longitude: 
+latitude: 48.81
+longitude: 5.109
 ---

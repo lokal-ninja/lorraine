@@ -1,6 +1,6 @@
 ---
 title: Charmes
 url: /charmes/
-latitude: 48.1476459
-longitude: 5.709933400000001
+latitude: 48.37
+longitude: 6.28
 ---

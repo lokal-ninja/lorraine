@@ -1,6 +1,6 @@
 ---
 title: Gondrexange
 url: /gondrexange/
-latitude: 48.6841821
-longitude: 6.928209600000001
+latitude: 48.685
+longitude: 6.928
 ---

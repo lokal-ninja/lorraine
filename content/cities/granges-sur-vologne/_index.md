@@ -1,6 +1,6 @@
 ---
 title: Granges-sur-Vologne
 url: /granges-sur-vologne/
-latitude: 
-longitude: 
+latitude: 48.125
+longitude: 6.774
 ---

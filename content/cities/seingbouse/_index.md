@@ -1,6 +1,6 @@
 ---
 title: Seingbouse
 url: /seingbouse/
-latitude: 49.1132483
-longitude: 6.8314333000000005
+latitude: 49.114
+longitude: 6.83
 ---

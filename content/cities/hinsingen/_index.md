@@ -1,6 +1,6 @@
 ---
 title: Hinsingen
 url: /hinsingen/
-latitude: 
-longitude: 
+latitude: 48.951
+longitude: 6.99
 ---

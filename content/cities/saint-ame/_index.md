@@ -1,6 +1,6 @@
 ---
 title: Saint-Amé
 url: /saint-ame/
-latitude: 48.025610900000004
-longitude: 6.6705353
+latitude: 48.025
+longitude: 6.675
 ---

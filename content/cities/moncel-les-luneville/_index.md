@@ -1,6 +1,6 @@
 ---
 title: Moncel-lès-Lunéville
 url: /moncel-les-luneville/
-latitude: 48.5745
-longitude: 6.5296
+latitude: 48.58
+longitude: 6.519
 ---

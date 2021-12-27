@@ -1,6 +1,6 @@
 ---
 title: Ruppes
 url: /ruppes/
-latitude: 48.471961
-longitude: 5.770511
+latitude: 48.471
+longitude: 5.768
 ---

@@ -1,6 +1,6 @@
 ---
 title: Großrosseln
 url: /grossrosseln/
-latitude: 
-longitude: 
+latitude: 49.206
+longitude: 6.844
 ---

@@ -1,6 +1,6 @@
 ---
 title: Troisfontaines
 url: /troisfontaines/
-latitude: 48.6693915
-longitude: 7.113812500000001
+latitude: 48.672
+longitude: 7.119
 ---

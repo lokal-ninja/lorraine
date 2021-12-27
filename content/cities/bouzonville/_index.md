@@ -1,6 +1,6 @@
 ---
 title: Bouzonville
 url: /bouzonville/
-latitude: 49.152634600000006
-longitude: 5.7750728
+latitude: 49.297
+longitude: 6.565
 ---

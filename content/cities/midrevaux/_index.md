@@ -1,6 +1,6 @@
 ---
 title: Midrevaux
 url: /midrevaux/
-latitude: 48.384800000000006
-longitude: 5.6127
+latitude: 48.386
+longitude: 5.608
 ---

@@ -1,6 +1,6 @@
 ---
 title: Laxou
 url: /laxou/
-latitude: 48.6848709
-longitude: 6.152223200000001
+latitude: 48.685
+longitude: 6.156
 ---

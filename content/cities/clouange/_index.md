@@ -1,6 +1,6 @@
 ---
 title: Clouange
 url: /clouange/
-latitude: 49.2606328
-longitude: 6.094270900000001
+latitude: 49.261
+longitude: 6.1
 ---

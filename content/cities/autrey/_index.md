@@ -1,6 +1,6 @@
 ---
 title: Autrey
 url: /autrey/
-latitude: 48.2971565
-longitude: 6.6900662
+latitude: 48.293
+longitude: 6.71
 ---

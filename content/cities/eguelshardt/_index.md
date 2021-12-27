@@ -1,6 +1,6 @@
 ---
 title: Éguelshardt
 url: /eguelshardt/
-latitude: 49.020969900000004
-longitude: 7.4989748
+latitude: 49.022
+longitude: 7.491
 ---

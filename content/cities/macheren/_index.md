@@ -1,6 +1,6 @@
 ---
 title: Macheren
 url: /macheren/
-latitude: 49.1002426
-longitude: 6.774746100000001
+latitude: 49.101
+longitude: 6.782
 ---

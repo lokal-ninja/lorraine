@@ -1,6 +1,6 @@
 ---
 title: Fontenay
 url: /fontenay/
-latitude: 48.218216500000004
-longitude: 6.591407500000001
+latitude: 48.218
+longitude: 6.588
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gérardmer
 url: /gerardmer/
-latitude: 
-longitude: 
+latitude: 48.075
+longitude: 6.884
 ---

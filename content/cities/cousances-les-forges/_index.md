@@ -1,6 +1,6 @@
 ---
 title: COUSANCES-LES-FORGES
 url: /cousances-les-forges/
-latitude: 
-longitude: 
+latitude: 48.61
+longitude: 5.081
 ---

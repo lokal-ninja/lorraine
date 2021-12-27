@@ -1,6 +1,6 @@
 ---
 title: Pagny-sur-Moselle
 url: /pagny-sur-moselle/
-latitude: 48.9837551
-longitude: 6.0197497
+latitude: 48.983
+longitude: 6.024
 ---

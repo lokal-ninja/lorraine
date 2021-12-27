@@ -1,6 +1,6 @@
 ---
 title: COUME
 url: /coume/
-latitude: 
-longitude: 
+latitude: 49.2
+longitude: 6.579
 ---

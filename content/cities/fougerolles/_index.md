@@ -1,6 +1,6 @@
 ---
 title: Fougerolles
 url: /fougerolles/
-latitude: 
-longitude: 
+latitude: 47.928
+longitude: 6.49
 ---

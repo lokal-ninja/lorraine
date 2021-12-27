@@ -1,6 +1,6 @@
 ---
 title: Fénétrange
 url: /fenetrange/
-latitude: 48.8483309
-longitude: 7.0196953
+latitude: 48.846
+longitude: 7.019
 ---

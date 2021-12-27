@@ -1,6 +1,6 @@
 ---
 title: Cosnes-et-Romain
 url: /cosnes-et-romain/
-latitude: 49.5249998
-longitude: 5.7103133
+latitude: 49.516
+longitude: 5.741
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gélacourt
 url: /gelacourt/
-latitude: 48.4816397
-longitude: 6.7328844000000005
+latitude: 48.461
+longitude: 6.739
 ---

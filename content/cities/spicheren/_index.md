@@ -1,6 +1,6 @@
 ---
 title: Spicheren
 url: /spicheren/
-latitude: 49.1923675
-longitude: 6.9677794
+latitude: 49.191
+longitude: 6.968
 ---

@@ -1,6 +1,6 @@
 ---
 title: Châtenois
 url: /chatenois/
-latitude: 48.3060776
-longitude: 5.8341873
+latitude: 48.303
+longitude: 5.835
 ---

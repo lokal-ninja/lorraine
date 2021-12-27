@@ -1,6 +1,6 @@
 ---
 title: Hennezel
 url: /hennezel/
-latitude: 48.055
-longitude: 6.1181
+latitude: 48.053
+longitude: 6.117
 ---

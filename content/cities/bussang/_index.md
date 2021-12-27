@@ -1,6 +1,6 @@
 ---
 title: Bussang
 url: /bussang/
-latitude: 47.8856155
-longitude: 6.8554759
+latitude: 47.885
+longitude: 6.853
 ---

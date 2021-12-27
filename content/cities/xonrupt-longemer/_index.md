@@ -1,6 +1,6 @@
 ---
 title: Xonrupt-Longemer
 url: /xonrupt-longemer/
-latitude: 48.0812783
-longitude: 6.9266841
+latitude: 48.096
+longitude: 6.955
 ---
