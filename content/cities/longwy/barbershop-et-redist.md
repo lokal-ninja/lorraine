@@ -1,5 +1,5 @@
 ---
 title: "Barbershop & Redist"
-url: /longwy/barbershop-and-redist/
+url: /longwy/barbershop-et-redist/
 shop: coiffeur
 ---

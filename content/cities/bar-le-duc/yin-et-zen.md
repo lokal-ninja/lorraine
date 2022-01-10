@@ -1,5 +1,5 @@
 ---
 title: "Yin & Zen"
-url: /bar-le-duc/yin-and-zen/
+url: /bar-le-duc/yin-et-zen/
 shop: massage
 ---

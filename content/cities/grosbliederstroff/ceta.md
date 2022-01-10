@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /grosbliederstroff/canda/
+url: /grosbliederstroff/ceta/
 shop: vêtements
 ---

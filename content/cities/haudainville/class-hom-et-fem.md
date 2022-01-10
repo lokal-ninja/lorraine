@@ -1,5 +1,5 @@
 ---
 title: "Class' Hom & Fem"
-url: /haudainville/class-hom-and-fem/
+url: /haudainville/class-hom-et-fem/
 shop: vêtements
 ---

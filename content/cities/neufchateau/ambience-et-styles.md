@@ -1,5 +1,5 @@
 ---
 title: "Ambience & Styles"
-url: /neufchateau/ambience-and-styles/
+url: /neufchateau/ambience-et-styles/
 shop: articles ménagers
 ---

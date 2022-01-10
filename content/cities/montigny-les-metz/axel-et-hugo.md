@@ -1,5 +1,5 @@
 ---
 title: "Axel & Hugo"
-url: /montigny-les-metz/axel-and-hugo/
+url: /montigny-les-metz/axel-et-hugo/
 shop: boulangerie
 ---
