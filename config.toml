@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/lorraine"
+baseURL = "https://fr.shoogle.net/lorraine/"
 languageCode = "fr"
 title = "Lorraine"
 theme = "ln-base"
