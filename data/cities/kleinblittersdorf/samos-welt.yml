@@ -7,5 +7,5 @@ city: Kleinblittersdorf
 street: "Elsässer Straße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:30, 14:30-18:00, Mittwoch und Samstag nachmittag geschlossen"
+opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00; We,Sa 08:30-12:30"
 website: "https://www.samos-welt.de"
