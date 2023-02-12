@@ -1,5 +1,5 @@
 ---
 title: "Lovely Lisa"
-url: /gerardmer/lovely-lisa-2/
+url: /gerardmer/lovely-lisa/
 shop: magasin de campagne
 ---

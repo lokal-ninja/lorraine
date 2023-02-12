@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc Express"
-url: /phalsbourg/e-leclerc-express-2/
+url: /phalsbourg/e-leclerc-express/
 shop: supermarché
 ---

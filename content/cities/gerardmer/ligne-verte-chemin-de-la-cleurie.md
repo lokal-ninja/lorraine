@@ -1,5 +1,5 @@
 ---
 title: "Ligne Verte"
-url: /gerardmer/ligne-verte-2/
+url: /gerardmer/ligne-verte/
 shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emmaüs"
-url: /sarreguemines/emmaus-2/
+url: /sarreguemines/emmaus/
 shop: charité
 ---

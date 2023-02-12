@@ -1,5 +1,5 @@
 ---
 title: "Sport Bike"
-url: /fains-veel/sport-bike-2/
+url: /fains-veel/sport-bike/
 shop: vélo
 ---

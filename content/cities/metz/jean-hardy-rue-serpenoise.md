@@ -1,5 +1,5 @@
 ---
 title: "Jean Hardy"
-url: /metz/jean-hardy-3/
+url: /metz/jean-hardy/
 shop: bijoux
 ---
