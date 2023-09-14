@@ -1,5 +1,5 @@
 ---
 title: "Ligne Verte"
-url: /gerardmer/ligne-verte/
+url: /gerardmer/ligne-verte-rue-francois-mitterrand/
 shop: shop
 ---
