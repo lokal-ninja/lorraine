@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /remiremont/action/
-shop: supermarché
+shop: magasin de variétés
 ---
