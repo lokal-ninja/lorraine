@@ -1,6 +1,6 @@
 ---
 title: Hauconcourt
 url: /hauconcourt/
-latitude: 49.214
-longitude: 6.17
+latitude: 49.222
+longitude: 6.181
 ---

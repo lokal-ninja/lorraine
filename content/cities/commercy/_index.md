@@ -1,6 +1,6 @@
 ---
 title: Commercy
 url: /commercy/
-latitude: 48.762
-longitude: 5.591
+latitude: 48.76
+longitude: 5.603
 ---
