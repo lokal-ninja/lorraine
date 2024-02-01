@@ -1,6 +1,6 @@
 ---
 title: Seichamps
 url: /seichamps/
-latitude: 48.711
-longitude: 6.252
+latitude: 48.721
+longitude: 6.269
 ---
