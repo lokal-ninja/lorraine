@@ -1,6 +1,6 @@
 ---
 title: Hettange-Grande
 url: /hettange-grande/
-latitude: 49.406
-longitude: 6.151
+latitude: 49.414
+longitude: 6.139
 ---
