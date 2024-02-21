@@ -1,5 +1,5 @@
 ---
-title: "MS MOBILE"
+title: "MS Mobile"
 url: /thionville/ms-mobile/
-shop: supermarché
+shop: téléphone portable
 ---
