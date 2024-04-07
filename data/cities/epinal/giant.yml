@@ -6,6 +6,6 @@ postcode: "88000"
 city: Épinal
 street: "Avenue des Terres-Saint-Jean"
 housenumber: 17
-phone: "+33953132566"
-opening_hours: "Mo 14:00-19:00; Tu 09:30-12:00,14:00-19:00; We 09:30-12:00,14:00-19:00; Th 09:30-12:00,14:00-19:00; Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-19:00; Su closed"
+phone: ""
+opening_hours: "Mo 14:00-18:30; Tu-We 09:30-12:00,14:00-18:30; Th 14:00-18:30; Fr-Sa 09:30-12:00,14:00-18:30; Su off"
 website: ""
