@@ -1,5 +1,5 @@
 ---
 title: "Loralnet"
 url: /bitche/loralnet/
-shop: chimiste
+shop: Drogerie
 ---

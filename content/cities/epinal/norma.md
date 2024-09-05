@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
 url: /epinal/norma/
-shop: supermarché
+shop: Supermarkt
 ---

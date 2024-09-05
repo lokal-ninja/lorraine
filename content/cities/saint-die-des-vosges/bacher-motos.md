@@ -1,5 +1,5 @@
 ---
 title: "Bacher Motos"
 url: /saint-die-des-vosges/bacher-motos/
-shop: voiture
+shop: Autohaus
 ---

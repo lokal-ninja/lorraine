@@ -1,5 +1,5 @@
 ---
 title: "Maxsofa"
 url: /pulnoy/maxsofa/
-shop: meubles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "B.A"
 url: /nancy/b-a/
-shop: charité
+shop: Gebrauchtwaren
 ---

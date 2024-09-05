@@ -1,5 +1,5 @@
 ---
 title: "Audace"
 url: /jarny/audace/
-shop: coiffeur
+shop: Friseur
 ---

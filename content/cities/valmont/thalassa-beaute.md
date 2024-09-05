@@ -1,5 +1,5 @@
 ---
 title: "Thalassa Beauté"
 url: /valmont/thalassa-beaute/
-shop: beauté
+shop: Kosmetik
 ---

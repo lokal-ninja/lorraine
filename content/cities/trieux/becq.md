@@ -1,5 +1,5 @@
 ---
 title: "BECQ"
 url: /trieux/becq/
-shop: boulangerie
+shop: Bäckerei
 ---

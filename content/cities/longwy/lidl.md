@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /longwy/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

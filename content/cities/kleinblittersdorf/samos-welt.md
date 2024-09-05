@@ -1,5 +1,5 @@
 ---
 title: "Samos Welt"
 url: /kleinblittersdorf/samos-welt/
-shop: supermarché
+shop: Supermarkt
 ---

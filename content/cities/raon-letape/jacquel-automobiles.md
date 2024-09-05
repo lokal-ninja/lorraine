@@ -1,5 +1,5 @@
 ---
 title: "Jacquel Automobiles"
 url: /raon-letape/jacquel-automobiles/
-shop: voiture
+shop: Autohaus
 ---

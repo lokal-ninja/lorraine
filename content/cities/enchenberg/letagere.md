@@ -1,5 +1,5 @@
 ---
 title: "L'étagère"
 url: /enchenberg/letagere/
-shop: commodité
+shop: Lebensmittel
 ---

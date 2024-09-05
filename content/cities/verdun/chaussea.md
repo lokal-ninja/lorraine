@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /verdun/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

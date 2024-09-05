@@ -1,5 +1,5 @@
 ---
 title: "Adrift"
 url: /gerardmer/adrift/
-shop: tatouage
+shop: Tattoo
 ---

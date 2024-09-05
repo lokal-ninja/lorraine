@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /epinal/giant/
-shop: vélo
+shop: Fahrrad
 ---

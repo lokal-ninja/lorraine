@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /epinal/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

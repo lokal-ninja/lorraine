@@ -1,5 +1,5 @@
 ---
 title: "Actiloc"
 url: /pulnoy/actiloc/
-shop: outils
+shop: Werkzeuge
 ---

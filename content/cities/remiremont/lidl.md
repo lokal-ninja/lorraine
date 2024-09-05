@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /remiremont/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

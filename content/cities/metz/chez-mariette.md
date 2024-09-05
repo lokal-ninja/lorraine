@@ -1,5 +1,5 @@
 ---
 title: "Chez Mariette"
 url: /metz/chez-mariette/
-shop: coiffeur
+shop: Friseur
 ---

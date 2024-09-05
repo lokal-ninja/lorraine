@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /fraize/carrefour/
-shop: commodité
+shop: Lebensmittel
 ---

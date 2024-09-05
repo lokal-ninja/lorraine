@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /dombasle/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

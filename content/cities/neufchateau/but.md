@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /neufchateau/but/
-shop: meubles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les Vapeauteurs"
 url: /epinal/les-vapeauteurs/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Créativ'Optique"
 url: /grosbliederstroff/creativoptique/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mangeons Frais"
 url: /saint-avold/mangeons-frais/
-shop: légumes
+shop: Gemüse & Obst
 ---

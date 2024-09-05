@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /bar-le-duc/e-leclerc/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Patton Médical"
 url: /saint-avold/patton-medical/
-shop: shop
+shop: Allgemein
 ---

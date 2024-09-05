@@ -1,5 +1,5 @@
 ---
 title: "Artisanat du Monde"
 url: /gerardmer/artisanat-du-monde/
-shop: vêtements
+shop: Kleidung
 ---

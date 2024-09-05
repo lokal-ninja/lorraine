@@ -1,5 +1,5 @@
 ---
 title: "Oxilys'Coiff"
 url: /ottange/oxilyscoiff/
-shop: coiffeur
+shop: Friseur
 ---

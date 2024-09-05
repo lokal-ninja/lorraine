@@ -1,5 +1,5 @@
 ---
 title: "Le Lotus Bleu"
 url: /fontenoy-la-joute/le-lotus-bleu/
-shop: livres
+shop: Bücher
 ---

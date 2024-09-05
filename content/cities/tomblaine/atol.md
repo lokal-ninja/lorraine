@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /tomblaine/atol/
-shop: opticien
+shop: Optiker
 ---

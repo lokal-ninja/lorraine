@@ -1,5 +1,5 @@
 ---
 title: "Kunterbunt"
 url: /mandelbachtal/kunterbunt/
-shop: vêtements
+shop: Kleidung
 ---

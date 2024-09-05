@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /kleinblittersdorf/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

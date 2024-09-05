@@ -1,5 +1,5 @@
 ---
 title: "Hoffmann"
 url: /velaines/hoffmann/
-shop: appareil ménager
+shop: Haushaltsgeräte
 ---

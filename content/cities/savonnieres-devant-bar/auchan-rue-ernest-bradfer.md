@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /savonnieres-devant-bar/auchan-rue-ernest-bradfer/
-shop: gaz
+shop: Gasflaschen
 ---

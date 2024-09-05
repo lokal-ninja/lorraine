@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /la-bresse/intersport/
-shop: sports
+shop: Sport
 ---

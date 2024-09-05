@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lemberg/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

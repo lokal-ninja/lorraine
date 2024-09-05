@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /verdun/centrakor/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

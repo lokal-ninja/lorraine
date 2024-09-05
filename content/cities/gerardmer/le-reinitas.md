@@ -1,5 +1,5 @@
 ---
 title: "Le Reinitas"
 url: /gerardmer/le-reinitas/
-shop: tabac
+shop: Tabak
 ---

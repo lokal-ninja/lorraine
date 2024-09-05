@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Cordier"
 url: /saint-avold/bijouterie-cordier/
-shop: bijoux
+shop: Schmuck
 ---

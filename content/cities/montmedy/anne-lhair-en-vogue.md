@@ -1,5 +1,5 @@
 ---
 title: "Anne l'Hair en Vogue"
 url: /montmedy/anne-lhair-en-vogue/
-shop: coiffeur
+shop: Friseur
 ---

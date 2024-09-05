@@ -1,5 +1,5 @@
 ---
 title: "Swag"
 url: /longwy/swag/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /gerardmer/joueclub/
-shop: jouets
+shop: Spielzeug
 ---

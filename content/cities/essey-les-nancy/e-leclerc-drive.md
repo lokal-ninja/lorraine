@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
 url: /essey-les-nancy/e-leclerc-drive/
-shop: avant-poste
+shop: Außenstelle
 ---

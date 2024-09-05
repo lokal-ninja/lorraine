@@ -1,5 +1,5 @@
 ---
 title: "Elan"
 url: /briey/elan/
-shop: commodité
+shop: Lebensmittel
 ---

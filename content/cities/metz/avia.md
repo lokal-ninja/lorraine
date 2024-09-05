@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /metz/avia/
-shop: commodité
+shop: Lebensmittel
 ---

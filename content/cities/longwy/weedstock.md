@@ -1,5 +1,5 @@
 ---
 title: "Weedstock"
 url: /longwy/weedstock/
-shop: thé
+shop: Tee
 ---

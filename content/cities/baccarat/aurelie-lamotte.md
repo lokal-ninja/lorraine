@@ -1,5 +1,5 @@
 ---
 title: "Aurélie Lamotte"
 url: /baccarat/aurelie-lamotte/
-shop: ferme
+shop: Hofladen
 ---

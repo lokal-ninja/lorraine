@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sarreguemines/aldi-rue-des-freres-remy/
-shop: supermarché
+shop: Supermarkt
 ---

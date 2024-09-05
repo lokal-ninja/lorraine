@@ -1,5 +1,5 @@
 ---
 title: "Exel Coif"
 url: /bar-le-duc/exel-coif/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chez Fernande"
 url: /le-tholy/chez-fernande/
-shop: charcuterie
+shop: Feinkost
 ---

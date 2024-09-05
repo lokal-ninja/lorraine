@@ -1,5 +1,5 @@
 ---
 title: "Toupamie"
 url: /avioth/toupamie/
-shop: boulangerie
+shop: Bäckerei
 ---

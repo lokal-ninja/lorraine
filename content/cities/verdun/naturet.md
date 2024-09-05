@@ -1,5 +1,5 @@
 ---
 title: "Naturet"
 url: /verdun/naturet/
-shop: vélo
+shop: Fahrrad
 ---

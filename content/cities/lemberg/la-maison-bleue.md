@@ -1,5 +1,5 @@
 ---
 title: "La Maison Bleue"
 url: /lemberg/la-maison-bleue/
-shop: lit
+shop: Betten
 ---

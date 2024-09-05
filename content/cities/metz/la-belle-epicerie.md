@@ -1,5 +1,5 @@
 ---
 title: "La belle épicerie"
 url: /metz/la-belle-epicerie/
-shop: charcuterie
+shop: Feinkost
 ---

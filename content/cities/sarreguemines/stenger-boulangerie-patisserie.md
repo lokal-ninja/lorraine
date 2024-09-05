@@ -1,5 +1,5 @@
 ---
 title: "Stenger Boulangerie Pâtisserie"
 url: /sarreguemines/stenger-boulangerie-patisserie/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karmann"
 url: /theding/karmann/
-shop: boulangerie
+shop: Bäckerei
 ---

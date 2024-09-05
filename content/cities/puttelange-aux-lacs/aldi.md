@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /puttelange-aux-lacs/aldi/
-shop: supermarché
+shop: Supermarkt
 ---
