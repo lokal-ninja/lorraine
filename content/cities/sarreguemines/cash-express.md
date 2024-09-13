@@ -1,5 +1,5 @@
 ---
 title: "Cash Express"
 url: /sarreguemines/cash-express/
-shop: Warenhaus
+shop: grand magasin
 ---

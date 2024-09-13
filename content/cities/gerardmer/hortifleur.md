@@ -1,5 +1,5 @@
 ---
 title: "Hortifleur"
 url: /gerardmer/hortifleur/
-shop: Blumen
+shop: fleuriste
 ---

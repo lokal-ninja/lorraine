@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /montmedy/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

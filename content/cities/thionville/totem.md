@@ -1,5 +1,5 @@
 ---
 title: "Totem"
 url: /thionville/totem/
-shop: Tabak
+shop: tabac
 ---

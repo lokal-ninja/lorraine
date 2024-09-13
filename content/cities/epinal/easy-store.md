@@ -1,5 +1,5 @@
 ---
 title: "Easy Store"
 url: /epinal/easy-store/
-shop: Computer
+shop: ordinateur
 ---

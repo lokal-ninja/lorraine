@@ -1,5 +1,5 @@
 ---
 title: "Échappée Australe"
 url: /thionville/echappee-australe/
-shop: Reisebüro
+shop: agence de voyage
 ---

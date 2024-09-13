@@ -1,5 +1,5 @@
 ---
 title: "Coutarel Voyages"
 url: /bar-le-duc/coutarel-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

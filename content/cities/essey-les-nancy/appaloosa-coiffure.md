@@ -1,5 +1,5 @@
 ---
 title: "Appaloosa Coiffure"
 url: /essey-les-nancy/appaloosa-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

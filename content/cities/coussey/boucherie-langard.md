@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Langard"
 url: /coussey/boucherie-langard/
-shop: Metzgerei
+shop: boucherie
 ---

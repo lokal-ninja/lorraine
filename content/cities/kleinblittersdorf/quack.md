@@ -1,5 +1,5 @@
 ---
 title: "Quack"
 url: /kleinblittersdorf/quack/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

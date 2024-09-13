@@ -1,5 +1,5 @@
 ---
 title: "Sharks"
 url: /epinal/sharks/
-shop: Sport
+shop: sports
 ---

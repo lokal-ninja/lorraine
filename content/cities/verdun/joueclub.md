@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /verdun/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

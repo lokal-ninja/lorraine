@@ -1,5 +1,5 @@
 ---
 title: "Illico Perso"
 url: /la-bresse/illico-perso/
-shop: Kopieren
+shop: copyshop
 ---

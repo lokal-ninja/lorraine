@@ -1,5 +1,5 @@
 ---
 title: "Dayãa Maroquinerie"
 url: /montmedy/dayaa-maroquinerie/
-shop: Leder
+shop: cuir
 ---

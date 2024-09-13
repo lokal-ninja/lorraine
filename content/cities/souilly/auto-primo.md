@@ -1,5 +1,5 @@
 ---
 title: "Auto Primo"
 url: /souilly/auto-primo/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

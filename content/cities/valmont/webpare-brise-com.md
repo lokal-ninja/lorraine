@@ -1,5 +1,5 @@
 ---
 title: "webpare-brise.com"
 url: /valmont/webpare-brise-com/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /hambach/super-u/
-shop: Gasflaschen
+shop: gaz
 ---

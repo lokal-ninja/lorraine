@@ -1,5 +1,5 @@
 ---
 title: "Totem Bitche"
 url: /bitche/totem-bitche/
-shop: Eisenwaren
+shop: matériel informatique
 ---

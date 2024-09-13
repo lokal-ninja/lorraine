@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /longeville-en-barrois/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

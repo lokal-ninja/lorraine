@@ -1,5 +1,5 @@
 ---
 title: "Evercom"
 url: /gerardmer/evercom/
-shop: Handy
+shop: téléphone portable
 ---

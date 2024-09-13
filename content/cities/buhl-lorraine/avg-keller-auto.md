@@ -1,5 +1,5 @@
 ---
 title: "AVG Keller Auto"
 url: /buhl-lorraine/avg-keller-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

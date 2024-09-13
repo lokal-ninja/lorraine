@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /bitche/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

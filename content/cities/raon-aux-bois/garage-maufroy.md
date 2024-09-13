@@ -1,5 +1,5 @@
 ---
 title: "Garage Maufroy"
 url: /raon-aux-bois/garage-maufroy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

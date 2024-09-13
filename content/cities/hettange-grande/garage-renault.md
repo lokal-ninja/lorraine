@@ -1,5 +1,5 @@
 ---
 title: "Garage Renault"
 url: /hettange-grande/garage-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

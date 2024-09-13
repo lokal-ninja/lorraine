@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /forbach/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

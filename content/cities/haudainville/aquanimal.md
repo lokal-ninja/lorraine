@@ -1,5 +1,5 @@
 ---
 title: "Aqua'nimal"
 url: /haudainville/aquanimal/
-shop: Tiere
+shop: animal de compagnie
 ---

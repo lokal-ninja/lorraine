@@ -1,5 +1,5 @@
 ---
 title: "Grand Frais"
 url: /verdun/grand-frais/
-shop: Supermarkt
+shop: supermarché
 ---

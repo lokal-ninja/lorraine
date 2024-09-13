@@ -1,5 +1,5 @@
 ---
 title: "BUTT'HAIR FLY"
 url: /seremange-erzange/butthair-fly/
-shop: Friseur
+shop: coiffeur
 ---

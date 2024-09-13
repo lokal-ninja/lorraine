@@ -1,5 +1,5 @@
 ---
 title: "Clic Info"
 url: /bar-le-duc/clic-info/
-shop: Computer
+shop: ordinateur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glorieuses"
 url: /nancy/glorieuses/
-shop: Antiquitäten
+shop: antiquités
 ---

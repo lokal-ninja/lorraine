@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /freyming-merlebach/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norma"
 url: /lhopital/norma/
-shop: Supermarkt
+shop: supermarché
 ---

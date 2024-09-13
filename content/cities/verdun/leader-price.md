@@ -1,5 +1,5 @@
 ---
 title: "Leader Price"
 url: /verdun/leader-price/
-shop: Supermarkt
+shop: supermarché
 ---

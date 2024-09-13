@@ -1,5 +1,5 @@
 ---
 title: "Lombard"
 url: /verdun/lombard/
-shop: Garten-Center
+shop: centre de jardinage
 ---

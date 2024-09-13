@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Salmon"
 url: /neufchateau/boucherie-salmon/
-shop: Metzgerei
+shop: boucherie
 ---

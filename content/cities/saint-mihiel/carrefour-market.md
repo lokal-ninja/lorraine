@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /saint-mihiel/carrefour-market/
-shop: Gasflaschen
+shop: gaz
 ---

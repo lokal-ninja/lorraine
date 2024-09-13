@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /bar-le-duc/orange/
-shop: Handy
+shop: téléphone portable
 ---

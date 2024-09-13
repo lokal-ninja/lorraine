@@ -1,5 +1,5 @@
 ---
 title: "Best Drive"
 url: /verdun/best-drive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

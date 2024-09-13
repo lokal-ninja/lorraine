@@ -1,5 +1,5 @@
 ---
 title: "ingedus.com"
 url: /metz/ingedus-com/
-shop: Computer
+shop: ordinateur
 ---

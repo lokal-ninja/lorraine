@@ -1,5 +1,5 @@
 ---
 title: "Vetimax"
 url: /saint-max/vetimax/
-shop: Kleidung
+shop: vêtements
 ---

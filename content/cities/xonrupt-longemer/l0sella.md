@@ -1,5 +1,5 @@
 ---
 title: "L'0sella"
 url: /xonrupt-longemer/l0sella/
-shop: Zeitungen
+shop: marchand de journaux
 ---

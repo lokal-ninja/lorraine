@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Création"
 url: /jarny/coiffure-creation/
-shop: Friseur
+shop: coiffeur
 ---

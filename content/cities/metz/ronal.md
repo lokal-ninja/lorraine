@@ -1,5 +1,5 @@
 ---
 title: "Ronal"
 url: /metz/ronal/
-shop: Autoteile
+shop: pièces de voitures
 ---

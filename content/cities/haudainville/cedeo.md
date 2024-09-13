@@ -1,5 +1,5 @@
 ---
 title: "Cedeo"
 url: /haudainville/cedeo/
-shop: Badezimmer
+shop: salle de bains
 ---

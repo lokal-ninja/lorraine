@@ -1,5 +1,5 @@
 ---
 title: "AD Veibler"
 url: /boust/ad-veibler/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

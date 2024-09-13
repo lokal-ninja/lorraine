@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /verdun/gemo/
-shop: Kleidung
+shop: vêtements
 ---

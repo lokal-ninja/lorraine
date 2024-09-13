@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /thionville/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

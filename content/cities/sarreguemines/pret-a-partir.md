@@ -1,5 +1,5 @@
 ---
 title: "Prêt à partir"
 url: /sarreguemines/pret-a-partir/
-shop: Reisebüro
+shop: agence de voyage
 ---

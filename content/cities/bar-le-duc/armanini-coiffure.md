@@ -1,5 +1,5 @@
 ---
 title: "Armanini Coiffure"
 url: /bar-le-duc/armanini-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

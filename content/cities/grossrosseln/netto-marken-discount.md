@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
 url: /grossrosseln/netto-marken-discount/
-shop: Supermarkt
+shop: supermarché
 ---

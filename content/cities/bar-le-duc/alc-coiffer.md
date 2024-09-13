@@ -1,5 +1,5 @@
 ---
 title: "Alc Coiffer"
 url: /bar-le-duc/alc-coiffer/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Match"
 url: /commercy/match/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Greiner"
 url: /goetzenbruck/tabac-presse-greiner/
-shop: Zeitungen
+shop: marchand de journaux
 ---

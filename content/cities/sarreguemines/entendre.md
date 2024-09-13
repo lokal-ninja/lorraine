@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /sarreguemines/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

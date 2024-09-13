@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /grosbliederstroff/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

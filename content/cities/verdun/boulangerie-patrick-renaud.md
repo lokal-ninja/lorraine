@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patrick Renaud"
 url: /verdun/boulangerie-patrick-renaud/
-shop: Bäckerei
+shop: boulangerie
 ---

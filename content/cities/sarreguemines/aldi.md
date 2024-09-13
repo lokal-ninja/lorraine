@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sarreguemines/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

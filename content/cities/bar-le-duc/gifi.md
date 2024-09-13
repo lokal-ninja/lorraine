@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /bar-le-duc/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

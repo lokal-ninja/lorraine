@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /forbach/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

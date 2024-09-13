@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /haudainville/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

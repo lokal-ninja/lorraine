@@ -1,5 +1,5 @@
 ---
 title: "Mélodie Coiff'"
 url: /arzviller/melodie-coiff/
-shop: Friseur
+shop: coiffeur
 ---

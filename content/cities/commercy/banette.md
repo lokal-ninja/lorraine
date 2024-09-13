@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /commercy/banette/
-shop: Bäckerei
+shop: boulangerie
 ---

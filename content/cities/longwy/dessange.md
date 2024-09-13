@@ -1,5 +1,5 @@
 ---
 title: "Dessange"
 url: /longwy/dessange/
-shop: Friseur
+shop: coiffeur
 ---

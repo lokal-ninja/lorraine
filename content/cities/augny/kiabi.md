@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /augny/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

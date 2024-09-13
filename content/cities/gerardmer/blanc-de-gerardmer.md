@@ -1,5 +1,5 @@
 ---
 title: "Blanc de Gérardmer"
 url: /gerardmer/blanc-de-gerardmer/
-shop: Textil
+shop: tissu
 ---

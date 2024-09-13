@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /thionville/orange/
-shop: Handy
+shop: téléphone portable
 ---

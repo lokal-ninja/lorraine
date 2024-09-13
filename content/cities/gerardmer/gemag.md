@@ -1,5 +1,5 @@
 ---
 title: "Gémag"
 url: /gerardmer/gemag/
-shop: Kleidung
+shop: vêtements
 ---

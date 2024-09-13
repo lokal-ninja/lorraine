@@ -1,5 +1,5 @@
 ---
 title: "Seb Barber"
 url: /nancy/seb-barber/
-shop: Friseur
+shop: coiffeur
 ---

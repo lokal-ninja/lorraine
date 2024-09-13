@@ -1,5 +1,5 @@
 ---
 title: "BigMat Schmidt"
 url: /goetzenbruck/bigmat-schmidt/
-shop: Baumarkt
+shop: à faire soi-même
 ---

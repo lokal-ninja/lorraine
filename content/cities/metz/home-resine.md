@@ -1,5 +1,5 @@
 ---
 title: "Home Résine"
 url: /metz/home-resine/
-shop: Baumarkt
+shop: à faire soi-même
 ---

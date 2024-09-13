@@ -1,5 +1,5 @@
 ---
 title: "Blanc de Gérardmer"
 url: /gerardmer/blanc-de-gerardmer-rue-charles-de-gaulle/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Détour nature"
 url: /vagney/detour-nature/
-shop: Blumen
+shop: fleuriste
 ---

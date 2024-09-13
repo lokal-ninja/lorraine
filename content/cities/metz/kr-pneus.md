@@ -1,5 +1,5 @@
 ---
 title: "KR Pneus"
 url: /metz/kr-pneus/
-shop: Reifen
+shop: pneus
 ---

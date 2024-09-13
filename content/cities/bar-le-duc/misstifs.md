@@ -1,5 +1,5 @@
 ---
 title: "Misstifs"
 url: /bar-le-duc/misstifs/
-shop: Friseur
+shop: coiffeur
 ---

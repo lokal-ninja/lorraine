@@ -1,5 +1,5 @@
 ---
 title: "Maison funéraire"
 url: /bar-le-duc/maison-funeraire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

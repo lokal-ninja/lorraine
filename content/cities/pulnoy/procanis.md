@@ -1,5 +1,5 @@
 ---
 title: "Procanis"
 url: /pulnoy/procanis/
-shop: Tiere
+shop: animal de compagnie
 ---

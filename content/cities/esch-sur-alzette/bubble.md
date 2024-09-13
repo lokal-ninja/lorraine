@@ -1,5 +1,5 @@
 ---
 title: "Bubble"
 url: /esch-sur-alzette/bubble/
-shop: Babysachen
+shop: produits pour bébés
 ---

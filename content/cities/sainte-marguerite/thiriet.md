@@ -1,5 +1,5 @@
 ---
 title: "Thiriet"
 url: /sainte-marguerite/thiriet/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

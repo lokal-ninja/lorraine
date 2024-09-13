@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Philippe Laurent"
 url: /gerardmer/coiffure-philippe-laurent/
-shop: Friseur
+shop: coiffeur
 ---

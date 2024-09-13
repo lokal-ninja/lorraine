@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /sarrebourg/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

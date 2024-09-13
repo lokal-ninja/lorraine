@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /tomblaine/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

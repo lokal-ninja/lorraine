@@ -1,5 +1,5 @@
 ---
 title: "Chlorophylle"
 url: /bar-le-duc/chlorophylle/
-shop: Blumen
+shop: fleuriste
 ---

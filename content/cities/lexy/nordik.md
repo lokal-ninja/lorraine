@@ -1,5 +1,5 @@
 ---
 title: "Nordik"
 url: /lexy/nordik/
-shop: Kamine & Öfen
+shop: cheminée
 ---

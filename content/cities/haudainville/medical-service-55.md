@@ -1,5 +1,5 @@
 ---
 title: "Médical Service 55"
 url: /haudainville/medical-service-55/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

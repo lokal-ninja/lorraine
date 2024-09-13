@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /verdun/cora/
-shop: Supermarkt
+shop: supermarché
 ---

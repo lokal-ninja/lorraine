@@ -1,5 +1,5 @@
 ---
 title: "JoBiCycles"
 url: /bitche/jobicycles/
-shop: Fahrrad
+shop: vélo
 ---

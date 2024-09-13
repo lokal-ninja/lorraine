@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /feves/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

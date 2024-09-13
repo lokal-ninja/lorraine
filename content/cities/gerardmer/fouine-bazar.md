@@ -1,5 +1,5 @@
 ---
 title: "Fouine Bazar"
 url: /gerardmer/fouine-bazar/
-shop: Kramladen
+shop: magasin de variétés
 ---

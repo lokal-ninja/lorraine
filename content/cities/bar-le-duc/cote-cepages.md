@@ -1,5 +1,5 @@
 ---
 title: "Côté Cépages"
 url: /bar-le-duc/cote-cepages/
-shop: Spirituosen
+shop: alcool
 ---

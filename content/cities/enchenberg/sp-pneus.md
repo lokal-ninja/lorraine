@@ -1,5 +1,5 @@
 ---
 title: "SP Pneus"
 url: /enchenberg/sp-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

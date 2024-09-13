@@ -1,5 +1,5 @@
 ---
 title: "Aquari’Home"
 url: /les-forges/aquarihome/
-shop: Tiere
+shop: animal de compagnie
 ---

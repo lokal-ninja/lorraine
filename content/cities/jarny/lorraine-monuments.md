@@ -1,5 +1,5 @@
 ---
 title: "Lorraine Monuments"
 url: /jarny/lorraine-monuments/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

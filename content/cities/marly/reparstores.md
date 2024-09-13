@@ -1,5 +1,5 @@
 ---
 title: "Répar'Stores"
 url: /marly/reparstores/
-shop: Allgemein
+shop: shop
 ---

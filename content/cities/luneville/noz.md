@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /luneville/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

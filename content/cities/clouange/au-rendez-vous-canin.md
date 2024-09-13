@@ -1,5 +1,5 @@
 ---
 title: "Au rendez-vous canin"
 url: /clouange/au-rendez-vous-canin/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

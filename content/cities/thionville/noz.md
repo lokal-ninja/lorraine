@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /thionville/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

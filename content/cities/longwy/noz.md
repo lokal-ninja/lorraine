@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /longwy/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

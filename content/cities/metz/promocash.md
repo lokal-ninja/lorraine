@@ -1,5 +1,5 @@
 ---
 title: "Promocash"
 url: /metz/promocash/
-shop: Baustoffe
+shop: commerce
 ---

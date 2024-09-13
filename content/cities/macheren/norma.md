@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
 url: /macheren/norma/
-shop: Supermarkt
+shop: supermarché
 ---

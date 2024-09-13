@@ -1,5 +1,5 @@
 ---
 title: "Garage Kuntz"
 url: /montbronn/garage-kuntz/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

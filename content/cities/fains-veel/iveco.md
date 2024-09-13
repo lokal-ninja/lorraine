@@ -1,5 +1,5 @@
 ---
 title: "Iveco"
 url: /fains-veel/iveco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /kleinblittersdorf/deichmann/
-shop: Schuhe
+shop: chaussures
 ---

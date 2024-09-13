@@ -1,5 +1,5 @@
 ---
 title: "Kieffer Patrick"
 url: /raon-letape/kieffer-patrick/
-shop: Bäckerei
+shop: boulangerie
 ---

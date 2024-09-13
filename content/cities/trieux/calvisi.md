@@ -1,5 +1,5 @@
 ---
 title: "Calvisi"
 url: /trieux/calvisi/
-shop: Bäckerei
+shop: boulangerie
 ---

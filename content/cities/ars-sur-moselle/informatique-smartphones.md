@@ -1,5 +1,5 @@
 ---
 title: "Informatique Smartphones"
 url: /ars-sur-moselle/informatique-smartphones/
-shop: Computer
+shop: ordinateur
 ---

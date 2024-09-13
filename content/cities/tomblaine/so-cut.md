@@ -1,5 +1,5 @@
 ---
 title: "So Cut"
 url: /tomblaine/so-cut/
-shop: Friseur
+shop: coiffeur
 ---

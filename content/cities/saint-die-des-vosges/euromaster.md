@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /saint-die-des-vosges/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

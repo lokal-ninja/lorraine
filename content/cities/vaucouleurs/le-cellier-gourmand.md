@@ -1,5 +1,5 @@
 ---
 title: "Le Cellier Gourmand"
 url: /vaucouleurs/le-cellier-gourmand/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /creutzwald/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Via Roma"
 url: /bar-le-duc/via-roma/
-shop: Kleidung
+shop: vêtements
 ---

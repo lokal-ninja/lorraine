@@ -1,5 +1,5 @@
 ---
 title: "MX Passion"
 url: /longwy/mx-passion/
-shop: Sport
+shop: sports
 ---

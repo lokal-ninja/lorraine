@@ -1,5 +1,5 @@
 ---
 title: "Carlton Shop"
 url: /sarrebourg/carlton-shop/
-shop: Schuhe
+shop: chaussures
 ---

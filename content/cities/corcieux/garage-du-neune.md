@@ -1,5 +1,5 @@
 ---
 title: "Garage du Neuné"
 url: /corcieux/garage-du-neune/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moto concept"
 url: /freyming-merlebach/moto-concept/
-shop: Motorrad
+shop: moto
 ---

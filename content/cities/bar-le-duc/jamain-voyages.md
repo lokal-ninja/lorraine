@@ -1,5 +1,5 @@
 ---
 title: "Jamain Voyages"
 url: /bar-le-duc/jamain-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

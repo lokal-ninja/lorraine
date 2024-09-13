@@ -1,5 +1,5 @@
 ---
 title: "Auchan Station Service"
 url: /farebersviller/auchan-station-service/
-shop: Gasflaschen
+shop: gaz
 ---

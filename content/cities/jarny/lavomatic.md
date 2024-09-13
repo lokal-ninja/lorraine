@@ -1,5 +1,5 @@
 ---
 title: "Lavomatic"
 url: /jarny/lavomatic/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /bar-le-duc/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

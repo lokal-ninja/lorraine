@@ -1,5 +1,5 @@
 ---
 title: "Sandrine Coiffure"
 url: /bar-le-duc/sandrine-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

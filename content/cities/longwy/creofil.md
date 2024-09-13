@@ -1,5 +1,5 @@
 ---
 title: "Créofil"
 url: /longwy/creofil/
-shop: Textil
+shop: tissu
 ---

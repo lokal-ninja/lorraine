@@ -1,5 +1,5 @@
 ---
 title: "Garage Nicolas"
 url: /padoux/garage-nicolas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

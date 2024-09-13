@@ -1,5 +1,5 @@
 ---
 title: "Roci"
 url: /la-bresse/roci/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alpha Médical"
 url: /bar-le-duc/alpha-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

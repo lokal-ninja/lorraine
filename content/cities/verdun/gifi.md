@@ -1,5 +1,5 @@
 ---
 title: "Gifi"
 url: /verdun/gifi/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

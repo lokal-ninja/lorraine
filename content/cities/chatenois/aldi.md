@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /chatenois/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

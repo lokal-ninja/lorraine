@@ -1,5 +1,5 @@
 ---
 title: "Épicerie Kadric"
 url: /rohrbach-les-bitche/epicerie-kadric/
-shop: Lebensmittel
+shop: commodité
 ---

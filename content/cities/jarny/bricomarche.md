@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /jarny/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Caël Automobiles"
 url: /gerardmer/garage-cael-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

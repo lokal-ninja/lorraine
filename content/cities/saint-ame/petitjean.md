@@ -1,5 +1,5 @@
 ---
 title: "Petitjean"
 url: /saint-ame/petitjean/
-shop: Baumarkt
+shop: à faire soi-même
 ---

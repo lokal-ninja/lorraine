@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /bar-le-duc/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

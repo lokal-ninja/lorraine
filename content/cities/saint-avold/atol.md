@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /saint-avold/atol/
-shop: Optiker
+shop: opticien
 ---

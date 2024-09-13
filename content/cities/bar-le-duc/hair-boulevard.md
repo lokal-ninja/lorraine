@@ -1,5 +1,5 @@
 ---
 title: "Hair' boulevard"
 url: /bar-le-duc/hair-boulevard/
-shop: Friseur
+shop: coiffeur
 ---

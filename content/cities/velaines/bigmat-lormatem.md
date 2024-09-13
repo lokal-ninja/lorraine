@@ -1,5 +1,5 @@
 ---
 title: "BigMat - Lormatem"
 url: /velaines/bigmat-lormatem/
-shop: Baumarkt
+shop: à faire soi-même
 ---

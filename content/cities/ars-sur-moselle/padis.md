@@ -1,5 +1,5 @@
 ---
 title: "Padis"
 url: /ars-sur-moselle/padis/
-shop: Großhandel
+shop: vente en gros
 ---

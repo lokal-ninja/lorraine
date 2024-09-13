@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /dabo/vival/
-shop: Lebensmittel
+shop: commodité
 ---

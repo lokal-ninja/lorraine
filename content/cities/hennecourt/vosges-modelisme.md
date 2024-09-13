@@ -1,5 +1,5 @@
 ---
 title: "Vosges Modelisme"
 url: /hennecourt/vosges-modelisme/
-shop: Dorfladen
+shop: magasin de campagne
 ---

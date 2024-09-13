@@ -1,5 +1,5 @@
 ---
 title: "Optica"
 url: /hagondange/optica/
-shop: Optiker
+shop: opticien
 ---

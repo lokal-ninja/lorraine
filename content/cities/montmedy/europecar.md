@@ -1,5 +1,5 @@
 ---
 title: "Europecar"
 url: /montmedy/europecar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

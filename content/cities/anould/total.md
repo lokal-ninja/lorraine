@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /anould/total/
-shop: Lebensmittel
+shop: commodité
 ---

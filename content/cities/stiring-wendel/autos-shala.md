@@ -1,5 +1,5 @@
 ---
 title: "Autos Shala"
 url: /stiring-wendel/autos-shala/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /vandoeuvre-les-nancy/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

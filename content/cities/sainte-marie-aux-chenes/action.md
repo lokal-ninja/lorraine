@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /sainte-marie-aux-chenes/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

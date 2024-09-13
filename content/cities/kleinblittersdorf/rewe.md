@@ -1,5 +1,5 @@
 ---
 title: "REWE"
 url: /kleinblittersdorf/rewe/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /remiremont/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

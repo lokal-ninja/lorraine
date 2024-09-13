@@ -1,5 +1,5 @@
 ---
 title: "Gitem"
 url: /verdun/gitem/
-shop: Elektronik
+shop: électronique
 ---

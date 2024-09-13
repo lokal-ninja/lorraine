@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Le Pasteur"
 url: /ars-sur-moselle/tabac-presse-le-pasteur/
-shop: Zeitungen
+shop: marchand de journaux
 ---

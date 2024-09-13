@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /creutzwald/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

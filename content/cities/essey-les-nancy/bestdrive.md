@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /essey-les-nancy/bestdrive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

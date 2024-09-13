@@ -1,5 +1,5 @@
 ---
 title: "Générale d'Optique"
 url: /savonnieres-devant-bar/generale-doptique/
-shop: Optiker
+shop: opticien
 ---

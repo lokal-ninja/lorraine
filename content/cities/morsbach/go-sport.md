@@ -1,5 +1,5 @@
 ---
 title: "GO Sport"
 url: /morsbach/go-sport/
-shop: Sport
+shop: sports
 ---

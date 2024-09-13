@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /hagondange/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

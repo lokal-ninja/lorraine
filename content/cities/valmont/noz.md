@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /valmont/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

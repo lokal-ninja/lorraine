@@ -1,5 +1,5 @@
 ---
 title: "Paline"
 url: /la-bresse/paline/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brico Leclerc"
 url: /verdun/brico-leclerc/
-shop: Baumarkt
+shop: à faire soi-même
 ---

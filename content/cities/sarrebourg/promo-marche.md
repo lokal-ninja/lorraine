@@ -1,5 +1,5 @@
 ---
 title: "Promo Marché"
 url: /sarrebourg/promo-marche/
-shop: Bioladen
+shop: alimentation saine
 ---

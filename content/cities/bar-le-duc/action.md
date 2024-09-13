@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /bar-le-duc/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

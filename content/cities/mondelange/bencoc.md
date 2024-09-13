@@ -1,5 +1,5 @@
 ---
 title: "Bencoc"
 url: /mondelange/bencoc/
-shop: Bäckerei
+shop: boulangerie
 ---

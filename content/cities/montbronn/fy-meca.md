@@ -1,5 +1,5 @@
 ---
 title: "FY-méca"
 url: /montbronn/fy-meca/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

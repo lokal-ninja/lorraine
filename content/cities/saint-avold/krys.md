@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /saint-avold/krys/
-shop: Optiker
+shop: opticien
 ---

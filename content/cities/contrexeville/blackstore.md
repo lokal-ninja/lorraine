@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /contrexeville/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

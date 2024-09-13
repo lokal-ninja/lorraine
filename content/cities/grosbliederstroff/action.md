@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /grosbliederstroff/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

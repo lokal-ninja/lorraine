@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /sarrebourg/avia/
-shop: Lebensmittel
+shop: commodité
 ---
