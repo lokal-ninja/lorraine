@@ -4,8 +4,8 @@ latitude: 48.76411
 longitude: 5.17903
 postcode: "55000"
 city: Bar-le-Duc
-street: "Impasse Kullmann"
-housenumber: 2
-phone: "+33 3 29 77 10 38"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00; Su off"
+street: Impasse Kullmann
+housenumber: "2"
+phone: +33 3 29 77 10 38
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 562079082
-type: way
+type: node
 latitude: 48.70845
 longitude: 6.23785
 postcode: "54270"
 city: Essey-lès-Nancy
-street: "Avenue du 69e Régiment d'Infanterie"
-housenumber: 102
+street: Avenue du 69e Régiment d'Infanterie
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.leclercdrive.fr/region-grand-est/nancy/drive-essey-les-nancy.aspx"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.leclercdrive.fr/region-grand-est/nancy/drive-essey-les-nancy.aspx

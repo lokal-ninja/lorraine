@@ -4,8 +4,8 @@ latitude: 49.09118
 longitude: 6.71779
 postcode: "57730"
 city: Valmont
-street: "Rue de Saint-Sauvent"
-housenumber: 44
+street: Rue de Saint-Sauvent
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 05:00-19:00; Sa-Su 06:00-13:00; PH 06:00-13:00"
-website: "http:/www.maisondosda.fr"
+opening_hours: Mo-Fr 05:00-19:00; Sa-Su 06:00-13:00; PH 06:00-13:00
+website: http:/www.maisondosda.fr

@@ -4,8 +4,8 @@ latitude: 48.76549
 longitude: 5.17703
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Ernest Bradfer"
-housenumber: 77
-phone: "+33 3 29 45 00 00"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.optical-center.fr/"
+street: Rue Ernest Bradfer
+housenumber: "77"
+phone: +33 3 29 45 00 00
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.optical-center.fr/

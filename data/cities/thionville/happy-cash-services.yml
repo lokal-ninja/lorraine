@@ -4,8 +4,8 @@ latitude: 49.35749
 longitude: 6.16674
 postcode: "57100"
 city: Thionville
-street: "Rue de Paris"
-housenumber: 6
+street: Rue de Paris
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.happycash.fr/magasin/thionville/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.happycash.fr/magasin/thionville/

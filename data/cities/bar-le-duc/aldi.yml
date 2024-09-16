@@ -4,8 +4,8 @@ latitude: 48.76748
 longitude: 5.17421
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Ernest Bradfer"
-housenumber: 71
+street: Rue Ernest Bradfer
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.aldi.fr/"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.aldi.fr/

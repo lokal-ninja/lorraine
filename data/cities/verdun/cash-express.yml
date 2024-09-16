@@ -1,11 +1,11 @@
 id: 429184178
-type: way
+type: node
 latitude: 49.14755
 longitude: 5.41062
 postcode: "55100"
 city: Verdun
-street: "Rue Jean Norton Cru"
-housenumber: 
-phone: "+33 3 29 86 17 73"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:00,14:00-19:00; Su 14:00-18:00"
+street: Rue Jean Norton Cru
+housenumber: ""
+phone: +33 3 29 86 17 73
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:00,14:00-19:00; Su 14:00-18:00
 website: ""

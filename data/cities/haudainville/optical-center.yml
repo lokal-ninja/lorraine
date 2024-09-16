@@ -4,8 +4,8 @@ latitude: 49.1429
 longitude: 5.40977
 postcode: "55100"
 city: Haudainville
-street: "Route de Metz"
-housenumber: 145
-phone: "+33 3 29 84 22 78"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
+street: Route de Metz
+housenumber: "145"
+phone: +33 3 29 84 22 78
+opening_hours: Mo-Sa 10:00-19:00; Su off
 website: ""

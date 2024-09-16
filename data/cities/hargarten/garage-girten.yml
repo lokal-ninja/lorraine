@@ -1,11 +1,11 @@
 id: 159561579
-type: way
+type: node
 latitude: 49.36363
 longitude: 6.46902
 postcode: "57480"
 city: Hargarten
-street: "Rue Saint-Jean"
-housenumber: 12
-phone: "+33 3 82 82 31 11"
+street: Rue Saint-Jean
+housenumber: "12"
+phone: +33 3 82 82 31 11
 opening_hours: ""
-website: "https://reseau.citroen.fr/reparateur-hargarten"
+website: https://reseau.citroen.fr/reparateur-hargarten

@@ -1,11 +1,11 @@
 id: 202544965
-type: way
+type: node
 latitude: 49.51554
 longitude: 5.3669
 postcode: "55600"
 city: Montmédy
-street: "Rue du Lieutenant Bourguignon"
-housenumber: 6
-phone: "+33 3 29 80 10 34"
+street: Rue du Lieutenant Bourguignon
+housenumber: "6"
+phone: +33 3 29 80 10 34
 opening_hours: ""
-website: "https://www.eurorepar.fr/garage-grand-est-montmedy-9736.html"
+website: https://www.eurorepar.fr/garage-grand-est-montmedy-9736.html

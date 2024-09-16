@@ -1,11 +1,12 @@
 id: 97268983
-type: way
+type: node
 latitude: 48.35158
 longitude: 5.69514
 postcode: "88300"
 city: Neufchâteau
-street: "Avenue de la Grande Fontaine"
+street: Avenue de la Grande Fontaine
 housenumber: 21 bis
-phone: "+33 3 29 94 03 78"
-opening_hours: "Mo Off; Tu-Fr 08:00-12:30, 14:00-17:30; Sa 08:00-13:00, 14:00-17:30; Su Off"
+phone: +33 3 29 94 03 78
+opening_hours: Mo Off; Tu-Fr 08:00-12:30, 14:00-17:30; Sa 08:00-13:00, 14:00-17:30;
+    Su Off
 website: ""

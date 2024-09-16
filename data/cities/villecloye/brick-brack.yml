@@ -1,11 +1,11 @@
 id: 679745083
-type: way
+type: node
 latitude: 49.50353
 longitude: 5.38467
 postcode: "55600"
 city: Villécloye
-street: "Avenue de Verdun"
-housenumber: 40
-phone: "+33 7 83 89 35 48"
+street: Avenue de Verdun
+housenumber: "40"
+phone: +33 7 83 89 35 48
 opening_hours: ""
 website: ""

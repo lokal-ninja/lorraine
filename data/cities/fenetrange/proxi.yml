@@ -1,11 +1,11 @@
 id: 231930837
-type: way
+type: node
 latitude: 48.84643
 longitude: 7.01878
 postcode: "57930"
 city: Fénétrange
-street: "Rue de l'Hôtel de Ville"
-housenumber: 10
+street: Rue de l'Hôtel de Ville
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.78962
 longitude: 5.13833
 postcode: "55000"
 city: Fains-Véel
-street: "Route de Reims"
-housenumber: 2
-phone: "+33 3 29 79 12 67"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://herbemont.autodistribution.fr/"
+street: Route de Reims
+housenumber: "2"
+phone: +33 3 29 79 12 67
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://herbemont.autodistribution.fr/

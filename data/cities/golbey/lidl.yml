@@ -1,11 +1,11 @@
 id: 503346227
-type: way
+type: node
 latitude: 48.19054
 longitude: 6.42482
 postcode: "88190"
 city: Golbey
-street: "Rue Général Leclerc"
-housenumber: 63
+street: Rue Général Leclerc
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

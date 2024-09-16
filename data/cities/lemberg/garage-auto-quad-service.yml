@@ -1,11 +1,11 @@
 id: 228230445
-type: way
+type: node
 latitude: 48.99908
 longitude: 7.37065
 postcode: "57620"
 city: Lemberg
-street: "Rue Émile Gallé"
-housenumber: 1
-phone: "+33 3 87 06 80 40"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00"
-website: "https://www.jachetebitcherland.fr/garage-auto-quad-service"
+street: Rue Émile Gallé
+housenumber: "1"
+phone: +33 3 87 06 80 40
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00
+website: https://www.jachetebitcherland.fr/garage-auto-quad-service

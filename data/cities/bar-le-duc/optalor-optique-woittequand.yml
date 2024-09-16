@@ -4,8 +4,9 @@ latitude: 48.77333
 longitude: 5.15963
 postcode: "55000"
 city: Bar-le-Duc
-street: "Place Reggio"
-housenumber: 14
-phone: "+33 3 29 79 15 84"
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su off"
-website: "https://www.optalor.com/"
+street: Place Reggio
+housenumber: "14"
+phone: +33 3 29 79 15 84
+opening_hours: Mo off; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00;
+    Su off
+website: https://www.optalor.com/

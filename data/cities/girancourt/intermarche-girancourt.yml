@@ -1,11 +1,11 @@
 id: 187395093
-type: way
+type: node
 latitude: 48.16249
 longitude: 6.30455
 postcode: "88390"
 city: Girancourt
-street: "Rue de Darney"
-housenumber: 
-phone: "+33 3 29 30 79 66"
-opening_hours: "Mo 14:30-19:00, Tu-Sa 09:00-12:15, 14:30-19:00, Su 09:00-12:00"
+street: Rue de Darney
+housenumber: ""
+phone: +33 3 29 30 79 66
+opening_hours: Mo 14:30-19:00, Tu-Sa 09:00-12:15, 14:30-19:00, Su 09:00-12:00
 website: ""

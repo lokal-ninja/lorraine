@@ -1,11 +1,11 @@
 id: 321998117
-type: way
+type: node
 latitude: 48.27456
 longitude: 6.96425
 postcode: "88100"
 city: Sainte-Marguerite
-street: "Rue Ernest Charlier"
-housenumber: 
+street: Rue Ernest Charlier
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.75792
 longitude: 5.19213
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue des Brielles"
-housenumber: 5
-phone: "+33 3 29 46 46 51"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00"
-website: "https://magasins.gifi.fr/decoration/bar-le-duc/0000001731"
+street: Rue des Brielles
+housenumber: "5"
+phone: +33 3 29 46 46 51
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00
+website: https://magasins.gifi.fr/decoration/bar-le-duc/0000001731

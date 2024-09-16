@@ -1,11 +1,11 @@
 id: 84236752
-type: way
+type: node
 latitude: 49.04817
 longitude: 6.59816
 postcode: "57380"
 city: Faulquemont
-street: "Rue Émile Houpert"
-housenumber: 6
+street: Rue Émile Houpert
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

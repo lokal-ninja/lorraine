@@ -1,11 +1,11 @@
 id: 161621106
-type: way
+type: node
 latitude: 48.41024
 longitude: 5.68216
 postcode: "88630"
 city: Coussey
-street: "Grande Rue"
-housenumber: 24
-phone: "+33 3 29 06 94 01"
-opening_hours: "Mo 07:00-19:00; Tu-We 07:00-14:00; Th-Sa 07:00-19:00; Su 07:00-13:00"
+street: Grande Rue
+housenumber: "24"
+phone: +33 3 29 06 94 01
+opening_hours: Mo 07:00-19:00; Tu-We 07:00-14:00; Th-Sa 07:00-19:00; Su 07:00-13:00
 website: ""

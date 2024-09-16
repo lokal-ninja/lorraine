@@ -1,11 +1,11 @@
 id: 248058288
-type: way
+type: node
 latitude: 49.44174
 longitude: 6.01828
 postcode: "57840"
 city: Ottange
-street: "Place d'Angliers"
-housenumber: 5
+street: Place d'Angliers
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

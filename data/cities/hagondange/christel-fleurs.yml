@@ -1,11 +1,11 @@
 id: 158997070
-type: way
+type: node
 latitude: 49.24828
 longitude: 6.16889
 postcode: "57300"
 city: Hagondange
-street: "Rue Pierre Semard"
-housenumber: 8
+street: Rue Pierre Semard
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Sa 08:00-19:00; Su,PH 08:00-12:30"
+opening_hours: Tu-Sa 08:00-19:00; Su,PH 08:00-12:30
 website: ""

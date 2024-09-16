@@ -4,8 +4,8 @@ latitude: 48.77028
 longitude: 5.16485
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Werly"
-housenumber: 32
-phone: "+33 3 59 30 96 10"
-opening_hours: "Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-17:00; Sa-Su off"
-website: "http://www.ab-encheres.fr/"
+street: Rue Werly
+housenumber: "32"
+phone: +33 3 59 30 96 10
+opening_hours: Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-17:00; Sa-Su off
+website: http://www.ab-encheres.fr/

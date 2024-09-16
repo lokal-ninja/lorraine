@@ -1,11 +1,11 @@
 id: 238692026
-type: way
+type: node
 latitude: 48.36833
 longitude: 5.70562
 postcode: "88300"
 city: Neufchâteau
 street: ""
-housenumber: 
-phone: "+33 3 29 94 25 22"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
-website: "https://brdcol.pleinciel.fr/"
+housenumber: ""
+phone: +33 3 29 94 25 22
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
+website: https://brdcol.pleinciel.fr/

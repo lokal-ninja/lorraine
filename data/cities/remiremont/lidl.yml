@@ -1,11 +1,11 @@
 id: 395419872
-type: way
+type: node
 latitude: 48.01123
 longitude: 6.60357
 postcode: "88200"
 city: Remiremont
-street: "Rue de la Filature"
-housenumber: 
+street: Rue de la Filature
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

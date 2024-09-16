@@ -4,8 +4,8 @@ latitude: 49.45233
 longitude: 5.45744
 postcode: "55600"
 city: Marville
-street: "Grande Rue"
-housenumber: 12
+street: Grande Rue
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Sa 08:30-12:30,16:30-19:00"
+opening_hours: Tu-Sa 08:30-12:30,16:30-19:00
 website: ""

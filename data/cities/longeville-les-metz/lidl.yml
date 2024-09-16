@@ -1,11 +1,11 @@
 id: 136762023
-type: way
+type: node
 latitude: 49.11191
 longitude: 6.15779
 postcode: "57050"
 city: Longeville-lès-Metz
-street: "Boulevard Saint-Symphorien"
-housenumber: 29
+street: Boulevard Saint-Symphorien
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,Ph off"
+opening_hours: Mo-Sa 08:00-20:00; Su,Ph off
 website: ""

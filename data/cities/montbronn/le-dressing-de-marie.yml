@@ -1,11 +1,11 @@
 id: 106943995
-type: way
+type: node
 latitude: 48.99431
 longitude: 7.31862
 postcode: "57415"
 city: Montbronn
-street: "Rue de Bitche"
-housenumber: 22
-phone: "+33 3 87 96 32 66"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-18:30; Sa 09:30-12:00,14:00-18:00"
+street: Rue de Bitche
+housenumber: "22"
+phone: +33 3 87 96 32 66
+opening_hours: Tu-Fr 09:30-12:00,14:00-18:30; Sa 09:30-12:00,14:00-18:00
 website: ""

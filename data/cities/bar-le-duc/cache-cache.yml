@@ -4,8 +4,8 @@ latitude: 48.77355
 longitude: 5.15982
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 40
-phone: "+33 3 29 77 31 22"
-opening_hours: "Mo 10:00-19:00; Tu-Sa 09:30-19:00; Su off"
-website: "https://www.cache-cache.fr/"
+street: Rue Jean-Jacques Rousseau
+housenumber: "40"
+phone: +33 3 29 77 31 22
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:30-19:00; Su off
+website: https://www.cache-cache.fr/

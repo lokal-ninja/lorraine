@@ -1,11 +1,11 @@
 id: 86906992
-type: way
+type: node
 latitude: 49.11048
 longitude: 7.09842
 postcode: "57200"
 city: Sarreguemines
-street: "Rue Joseph Cugnot"
-housenumber: 1
+street: Rue Joseph Cugnot
+housenumber: "1"
 phone: "+33387954646"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00, 14:00-17:30"
-website: "https://www.honda-moselle-est.com/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00, 14:00-17:30
+website: https://www.honda-moselle-est.com/

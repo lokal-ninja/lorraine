@@ -1,11 +1,11 @@
 id: 144229545
-type: way
+type: node
 latitude: 48.61009
 longitude: 6.35315
 postcode: "54110"
 city: Dombasle
-street: "Avenue de Rosières"
-housenumber: 37
+street: Avenue de Rosières
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

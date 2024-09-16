@@ -1,11 +1,11 @@
 id: 106944831
-type: way
+type: node
 latitude: 48.99783
 longitude: 7.29217
 postcode: "57415"
 city: Montbronn
-street: "Z.A. du Nassenwald"
-housenumber: 
-phone: "+33 3 87 96 39 54"
+street: Z.A. du Nassenwald
+housenumber: ""
+phone: +33 3 87 96 39 54
 opening_hours: ""
-website: "http://www.egs-industrie.com/"
+website: http://www.egs-industrie.com/

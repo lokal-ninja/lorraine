@@ -1,11 +1,11 @@
 id: 1257194449
-type: way
+type: node
 latitude: 48.72025
 longitude: 6.2689
 postcode: "54280"
 city: Seichamps
-street: "Rue de la Grande Ozeraille"
-housenumber: 7
+street: Rue de la Grande Ozeraille
+housenumber: "7"
 phone: "+33383310233"
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

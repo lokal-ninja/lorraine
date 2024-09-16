@@ -1,11 +1,11 @@
 id: 106946285
-type: way
+type: node
 latitude: 48.99628
 longitude: 7.32254
 postcode: "57415"
 city: Montbronn
-street: "Rue des Prés"
+street: Rue des Prés
 housenumber: 8a
-phone: "+33 3 87 96 41 56"
-opening_hours: "24/7"
-website: "https://www.pompes-funebres-montbronn.fr/"
+phone: +33 3 87 96 41 56
+opening_hours: 24/7
+website: https://www.pompes-funebres-montbronn.fr/

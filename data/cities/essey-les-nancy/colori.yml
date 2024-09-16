@@ -4,8 +4,8 @@ latitude: 48.70825
 longitude: 6.24897
 postcode: "54270"
 city: Essey-lès-Nancy
-street: "Rue des Tarbes"
-housenumber: 15
-phone: "+333 83 21 36 40"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.colori-nancy.fr/"
+street: Rue des Tarbes
+housenumber: "15"
+phone: +333 83 21 36 40
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.colori-nancy.fr/

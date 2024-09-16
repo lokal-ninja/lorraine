@@ -4,8 +4,8 @@ latitude: 48.78675
 longitude: 5.13754
 postcode: "55000"
 city: Fains-Véel
-street: "Rue de Bar"
-housenumber: 40
-phone: "+33 3 29 45 35 66"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00; Su 15:00-18:00"
-website: "https://marcheauxaffaires.fr/"
+street: Rue de Bar
+housenumber: "40"
+phone: +33 3 29 45 35 66
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00; Su 15:00-18:00
+website: https://marcheauxaffaires.fr/

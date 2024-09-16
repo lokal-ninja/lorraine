@@ -4,8 +4,9 @@ latitude: 48.77267
 longitude: 5.15906
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 24
-phone: "+33 3 29 79 02 08"
-opening_hours: "Mo 10:00-13:00; Tu-We 08:00-13:00,16:00-19:00; Th-Fr 08:00-13:00; Sa-Su off"
-website: "https://www.charcuterie-saint-antoine.com/"
+street: Rue Jean-Jacques Rousseau
+housenumber: "24"
+phone: +33 3 29 79 02 08
+opening_hours: Mo 10:00-13:00; Tu-We 08:00-13:00,16:00-19:00; Th-Fr 08:00-13:00; Sa-Su
+    off
+website: https://www.charcuterie-saint-antoine.com/

@@ -1,11 +1,11 @@
 id: 97629613
-type: way
+type: node
 latitude: 48.30005
 longitude: 5.84264
 postcode: "88170"
 city: Châtenois
-street: "Rue Pierre de Coubertin"
-housenumber: 11
+street: Rue Pierre de Coubertin
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

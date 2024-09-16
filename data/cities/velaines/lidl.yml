@@ -1,11 +1,11 @@
 id: 311541611
-type: way
+type: node
 latitude: 48.69532
 longitude: 5.31366
 postcode: "55500"
 city: Velaines
-street: "Rue de Ligny"
-housenumber: 94
+street: Rue de Ligny
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su off"
-website: "https://www.lidl.fr/"
+opening_hours: Mo-Sa 08:30-19:30; Su off
+website: https://www.lidl.fr/

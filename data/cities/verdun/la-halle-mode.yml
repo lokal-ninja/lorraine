@@ -4,8 +4,8 @@ latitude: 49.14525
 longitude: 5.41028
 postcode: "55100"
 city: Verdun
-street: "Rue André Pézard"
-housenumber: 8
-phone: "+33 3 29 86 77 88"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00; Su off"
+street: Rue André Pézard
+housenumber: "8"
+phone: +33 3 29 86 77 88
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00; Su off
 website: ""

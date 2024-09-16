@@ -1,11 +1,11 @@
 id: 526009086
-type: way
+type: node
 latitude: 49.04422
 longitude: 7.42611
 postcode: "57230"
 city: Bitche
-street: "Rue Jean-Jacques Kieffer"
-housenumber: 58
-phone: "+33 3 87 06 25 92"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.bricomarche.com/magasin/bitche/03344"
+street: Rue Jean-Jacques Kieffer
+housenumber: "58"
+phone: +33 3 87 06 25 92
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.bricomarche.com/magasin/bitche/03344

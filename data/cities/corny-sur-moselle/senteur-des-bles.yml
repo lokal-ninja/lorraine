@@ -1,11 +1,11 @@
 id: 325938992
-type: way
+type: node
 latitude: 49.02866
 longitude: 6.05537
 postcode: "57680"
 city: Corny-sur-Moselle
-street: "Rue de Nancy"
-housenumber: 22
+street: Rue de Nancy
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

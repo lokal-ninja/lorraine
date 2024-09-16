@@ -1,11 +1,11 @@
 id: 154061495
-type: way
+type: node
 latitude: 49.45445
 longitude: 6.07742
 postcode: "57330"
 city: Volmerange-les-Mines
-street: "Z.A. Langenberg"
-housenumber: 
-phone: "+33984435093;+35226378681"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00"
-website: "https://www.frontlines.fr/"
+street: Z.A. Langenberg
+housenumber: ""
+phone: +33984435093;+35226378681
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00
+website: https://www.frontlines.fr/

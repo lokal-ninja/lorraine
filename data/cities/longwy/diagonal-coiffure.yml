@@ -4,8 +4,8 @@ latitude: 49.52449
 longitude: 5.76397
 postcode: "54400"
 city: Longwy
-street: "Rue Gambetta"
-housenumber: 20
-phone: "+33 3 82 23 50 63"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:30"
-website: "http://www.diagonal-coiffure.fr/horaires-salons-diagonal/longwy-haut.html"
+street: Rue Gambetta
+housenumber: "20"
+phone: +33 3 82 23 50 63
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:30
+website: http://www.diagonal-coiffure.fr/horaires-salons-diagonal/longwy-haut.html

@@ -1,11 +1,11 @@
 id: 248225883
-type: way
+type: node
 latitude: 49.32397
 longitude: 5.93165
 postcode: "54750"
 city: Trieux
-street: "Avenue de la Libération"
-housenumber: 12
+street: Avenue de la Libération
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

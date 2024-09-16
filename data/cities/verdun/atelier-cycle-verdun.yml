@@ -1,11 +1,11 @@
 id: 94426777
-type: way
+type: node
 latitude: 49.16199
 longitude: 5.39525
 postcode: "55100"
 city: Verdun
-street: "Rue du Pré Pommeré"
-housenumber: 48
-phone: "+33 9 81 99 99 29"
-opening_hours: "Mo 14:00-18:00; We 09:30-12:00; Tu,Th,Fr 09:30-12:00,14:00-18:30"
-website: "https://www.ateliercycle.fr/"
+street: Rue du Pré Pommeré
+housenumber: "48"
+phone: +33 9 81 99 99 29
+opening_hours: Mo 14:00-18:00; We 09:30-12:00; Tu,Th,Fr 09:30-12:00,14:00-18:30
+website: https://www.ateliercycle.fr/

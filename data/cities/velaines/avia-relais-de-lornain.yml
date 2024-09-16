@@ -1,11 +1,11 @@
 id: 311541029
-type: way
+type: node
 latitude: 48.69927
 longitude: 5.30499
 postcode: "55000"
 city: Velaines
-street: "Rue de Ligny"
-housenumber: 91
-phone: "+33 3 29 78 10 11"
-opening_hours: "24/7"
+street: Rue de Ligny
+housenumber: "91"
+phone: +33 3 29 78 10 11
+opening_hours: 24/7
 website: ""

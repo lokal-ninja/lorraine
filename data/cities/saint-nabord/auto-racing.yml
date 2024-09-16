@@ -1,11 +1,11 @@
 id: 898340182
-type: way
+type: node
 latitude: 48.05502
 longitude: 6.58611
 postcode: "88200"
 city: Saint-Nabord
-street: "Rue du Centre"
-housenumber: 56
+street: Rue du Centre
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

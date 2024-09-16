@@ -4,8 +4,8 @@ latitude: 48.75591
 longitude: 5.19444
 postcode: "55000"
 city: Bar-le-Duc
-street: "Avenue de la Grande Terre"
-housenumber: 1
-phone: "+33 3 29 79 27 45"
-opening_hours: "Mo-Th, Sa 08:00-20:00; Fr 08:00-20:30"
-website: "https://e.leclerc/mag/e-leclerc-bar-le-duc"
+street: Avenue de la Grande Terre
+housenumber: "1"
+phone: +33 3 29 79 27 45
+opening_hours: Mo-Th, Sa 08:00-20:00; Fr 08:00-20:30
+website: https://e.leclerc/mag/e-leclerc-bar-le-duc

@@ -1,11 +1,11 @@
 id: 517164436
-type: way
+type: node
 latitude: 48.07998
 longitude: 6.78043
 postcode: "88400"
 city: Gérardmer
 street: ""
-housenumber: 680
-phone: "+33 3 29 50 22 12"
-opening_hours: "Mo-Su 08:00-18:30"
-website: "https://www.confiserie-geromoise.fr/"
+housenumber: "680"
+phone: +33 3 29 50 22 12
+opening_hours: Mo-Su 08:00-18:30
+website: https://www.confiserie-geromoise.fr/

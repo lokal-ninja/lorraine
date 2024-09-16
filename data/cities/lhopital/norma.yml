@@ -1,11 +1,11 @@
 id: 86857654
-type: way
+type: node
 latitude: 49.15709
 longitude: 6.73003
 postcode: "57490"
 city: L'Hôpital
-street: "Rue de l'Église"
-housenumber: 24
+street: Rue de l'Église
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

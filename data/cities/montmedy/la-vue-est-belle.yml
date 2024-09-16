@@ -4,8 +4,8 @@ latitude: 49.5175
 longitude: 5.36767
 postcode: "55600"
 city: Montmédy
-street: "Rue Ernest Mabille"
-housenumber: 43
+street: Rue Ernest Mabille
+housenumber: "43"
 phone: "+33329802267"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00"
-website: "https://lavueestbellemontmedy.fr/"
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00
+website: https://lavueestbellemontmedy.fr/

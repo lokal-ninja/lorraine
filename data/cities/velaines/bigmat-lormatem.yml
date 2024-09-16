@@ -1,11 +1,11 @@
 id: 311540545
-type: way
+type: node
 latitude: 48.70433
 longitude: 5.29643
 postcode: "55500"
 city: Velaines
-street: "Rue du Champ Gogy"
-housenumber: 
-phone: "+33 3 29 78 18 12"
+street: Rue du Champ Gogy
+housenumber: ""
+phone: +33 3 29 78 18 12
 opening_hours: ""
-website: "https://www.bigmat.fr/"
+website: https://www.bigmat.fr/

@@ -1,11 +1,11 @@
 id: 120185248
-type: way
+type: node
 latitude: 48.70976
 longitude: 6.24196
 postcode: "54270"
 city: Essey-lès-Nancy
-street: "Rue Catherine Sauvage"
-housenumber: 3
-phone: "+333 83 21 94 68"
-opening_hours: "Mo-Th 09:00-19:30; Fr-Sa 08:30-19:30; Su 09:00-12:30"
+street: Rue Catherine Sauvage
+housenumber: "3"
+phone: +333 83 21 94 68
+opening_hours: Mo-Th 09:00-19:30; Fr-Sa 08:30-19:30; Su 09:00-12:30
 website: ""

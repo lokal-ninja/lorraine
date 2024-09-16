@@ -1,11 +1,11 @@
 id: 228387942
-type: way
+type: node
 latitude: 49.0134
 longitude: 7.33903
 postcode: "57415"
 city: Enchenberg
-street: "Rue Centrale"
-housenumber: 3
-phone: "+33 9 61 63 34 06"
+street: Rue Centrale
+housenumber: "3"
+phone: +33 9 61 63 34 06
 opening_hours: ""
 website: ""

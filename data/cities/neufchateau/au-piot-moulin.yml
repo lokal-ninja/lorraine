@@ -1,11 +1,11 @@
 id: 97273376
-type: way
+type: node
 latitude: 48.36769
 longitude: 5.70347
 postcode: "88300"
 city: Neufchâteau
-street: "Avenue de la Division Leclerc"
-housenumber: 920
-phone: "+33 3 29 94 21 60"
-opening_hours: "Mo-Sa 06:30-19:00"
+street: Avenue de la Division Leclerc
+housenumber: "920"
+phone: +33 3 29 94 21 60
+opening_hours: Mo-Sa 06:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.77241
 longitude: 5.16293
 postcode: "55000"
 city: Bar le Duc
-street: "Boulevard de la Rochelle"
-housenumber: 46
-phone: "+33 3 29 45 59 10"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-12:30,14:00-19:00; Su off"
-website: "https://www.librairielafabrique.fr/"
+street: Boulevard de la Rochelle
+housenumber: "46"
+phone: +33 3 29 45 59 10
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-12:30,14:00-19:00; Su off
+website: https://www.librairielafabrique.fr/

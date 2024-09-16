@@ -4,8 +4,8 @@ latitude: 48.82511
 longitude: 5.12754
 postcode: ""
 city: Chardogne
-street: "Rue Haute"
-housenumber: 12
-phone: "+33 3 29 78 51 64"
-opening_hours: "08:00-12:00,13:30-18:00"
-website: "http://www.garage-chretien.fr"
+street: Rue Haute
+housenumber: "12"
+phone: +33 3 29 78 51 64
+opening_hours: 08:00-12:00,13:30-18:00
+website: http://www.garage-chretien.fr

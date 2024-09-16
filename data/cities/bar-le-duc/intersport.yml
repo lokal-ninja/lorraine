@@ -4,8 +4,8 @@ latitude: 48.75798
 longitude: 5.19037
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue des Brielles"
-housenumber: 10
-phone: "+33 3 29 45 43 34"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:00,14:00-19:00"
-website: "https://www.intersport.fr/Meuse-55/BARLEDUC-55000/INTERSPORT-BARLEDUC/00091_000/"
+street: Rue des Brielles
+housenumber: "10"
+phone: +33 3 29 45 43 34
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:00,14:00-19:00
+website: https://www.intersport.fr/Meuse-55/BARLEDUC-55000/INTERSPORT-BARLEDUC/00091_000/

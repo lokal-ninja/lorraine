@@ -4,8 +4,8 @@ latitude: 48.77286
 longitude: 5.15979
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Voltaire"
-housenumber: 1
-phone: "+33 7 67 63 99 58"
-opening_hours: "Mo 14:00-18:00; Tu-Sa 10:00-18:30; Su off"
+street: Rue Voltaire
+housenumber: "1"
+phone: +33 7 67 63 99 58
+opening_hours: Mo 14:00-18:00; Tu-Sa 10:00-18:30; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.75872
 longitude: 5.19086
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue des Brielles"
-housenumber: 2
-phone: "+33 3 29 45 96 01"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "http://www.drivefermierbarleduc.fr/"
+street: Rue des Brielles
+housenumber: "2"
+phone: +33 3 29 45 96 01
+opening_hours: Tu-Sa 10:00-19:00
+website: http://www.drivefermierbarleduc.fr/

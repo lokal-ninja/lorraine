@@ -1,11 +1,11 @@
 id: 85996719
-type: way
+type: node
 latitude: 49.11816
 longitude: 6.71013
 postcode: "57500"
 city: Saint-Avold
-street: "Avenue Général Patton"
-housenumber: 12
+street: Avenue Général Patton
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.75858
 longitude: 5.19048
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue des Brielles"
-housenumber: 6
-phone: "+33 3 29 46 48 21"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.litrimarche.fr/magasin/bar-le-duc"
+street: Rue des Brielles
+housenumber: "6"
+phone: +33 3 29 46 48 21
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://www.litrimarche.fr/magasin/bar-le-duc

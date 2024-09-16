@@ -4,8 +4,8 @@ latitude: 48.6904
 longitude: 6.18158
 postcode: "54000"
 city: Nancy
-street: "Rue Saint-Jean"
-housenumber: 17
+street: Rue Saint-Jean
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.lush.com/fr/fr/shops/lush-cosmetics?id=4604443212913443942"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.lush.com/fr/fr/shops/lush-cosmetics?id=4604443212913443942

@@ -4,8 +4,8 @@ latitude: 48.77466
 longitude: 5.15981
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue André Maginot"
-housenumber: 36
-phone: "+33 3 54 38 02 08"
-opening_hours: "Mo off; Tu-Sa 09:00-12:30,14:30-19:00; Su 09:00-12:30"
+street: Rue André Maginot
+housenumber: "36"
+phone: +33 3 54 38 02 08
+opening_hours: Mo off; Tu-Sa 09:00-12:30,14:30-19:00; Su 09:00-12:30
 website: ""

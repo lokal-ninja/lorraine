@@ -1,11 +1,11 @@
 id: 1306744936
-type: way
+type: node
 latitude: 48.34675
 longitude: 6.83418
 postcode: "88480"
 city: Saint-Remy
-street: "Rue du Bas du Village"
-housenumber: 260
+street: Rue du Bas du Village
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

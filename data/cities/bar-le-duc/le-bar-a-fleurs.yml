@@ -4,8 +4,9 @@ latitude: 48.77462
 longitude: 5.16013
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue André Maginot"
-housenumber: 27
-phone: "+33 3 29 45 43 95"
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,13:45-19:00; Sa 09:00-12:00,13:30-19:00; Su off"
-website: "https://le-bar-a-fleurs.business.site/"
+street: Rue André Maginot
+housenumber: "27"
+phone: +33 3 29 45 43 95
+opening_hours: Mo off; Tu-Fr 09:00-12:00,13:45-19:00; Sa 09:00-12:00,13:30-19:00;
+    Su off
+website: https://le-bar-a-fleurs.business.site/

@@ -4,8 +4,8 @@ latitude: 48.77086
 longitude: 5.1671
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue de Saint-Mihiel"
-housenumber: 2
-phone: "+33 6 64 20 10 24"
+street: Rue de Saint-Mihiel
+housenumber: "2"
+phone: +33 6 64 20 10 24
 opening_hours: ""
-website: "https://yinetzen.fr/"
+website: https://yinetzen.fr/

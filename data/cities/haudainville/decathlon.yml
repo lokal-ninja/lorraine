@@ -1,11 +1,11 @@
 id: 114225305
-type: way
+type: node
 latitude: 49.14291
 longitude: 5.41095
 postcode: "55100"
 city: Haudainville
 street: ""
-housenumber: 
-phone: "+33 3 29 84 85 00"
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_140"
+housenumber: ""
+phone: +33 3 29 84 85 00
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://www.decathlon.fr/fr/store?store_id=PS_140

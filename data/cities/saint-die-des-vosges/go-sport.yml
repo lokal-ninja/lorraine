@@ -1,11 +1,11 @@
 id: 43870643
-type: way
+type: node
 latitude: 48.27615
 longitude: 6.96521
 postcode: "88100"
 city: Saint-Dié-des-Vosges
-street: "Rue du 12e Régiment d'Artillerie"
-housenumber: 42
+street: Rue du 12e Régiment d'Artillerie
+housenumber: "42"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.go-sport.com/stores?lang=default#/stores/1869"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.go-sport.com/stores?lang=default#/stores/1869

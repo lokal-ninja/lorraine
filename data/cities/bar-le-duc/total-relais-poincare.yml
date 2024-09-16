@@ -4,8 +4,8 @@ latitude: 48.76931
 longitude: 5.17225
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Ernest Bradfer"
-housenumber: 32
-phone: "+33 3 29 79 05 60"
-opening_hours: "24/7"
-website: "https://store.total.fr/fr_FR/NF051209"
+street: Rue Ernest Bradfer
+housenumber: "32"
+phone: +33 3 29 79 05 60
+opening_hours: 24/7
+website: https://store.total.fr/fr_FR/NF051209

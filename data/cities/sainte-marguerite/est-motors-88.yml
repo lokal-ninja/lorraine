@@ -1,11 +1,11 @@
 id: 261673705
-type: way
+type: node
 latitude: 48.27535
 longitude: 6.96253
 postcode: "88100"
 city: Sainte-Marguerite
-street: "Rue Ernest Charlier"
-housenumber: 667
-phone: "+33 3 29 53 50 81"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-16:00"
+street: Rue Ernest Charlier
+housenumber: "667"
+phone: +33 3 29 53 50 81
+opening_hours: Mo 14:00-18:30; Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-16:00
 website: ""

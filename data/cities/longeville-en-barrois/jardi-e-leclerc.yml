@@ -4,8 +4,8 @@ latitude: 48.75533
 longitude: 5.19812
 postcode: "55000"
 city: Longeville-en-Barrois
-street: "Avenue des Romains"
-housenumber: 3
-phone: "+33 3 29 703 703"
-opening_hours: "Mo-Th 09:00-12:15,14:00-19:00; Fr-Sa 09:00-19:00"
+street: Avenue des Romains
+housenumber: "3"
+phone: +33 3 29 703 703
+opening_hours: Mo-Th 09:00-12:15,14:00-19:00; Fr-Sa 09:00-19:00
 website: ""

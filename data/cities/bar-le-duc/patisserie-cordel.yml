@@ -4,8 +4,8 @@ latitude: 48.77323
 longitude: 5.16109
 postcode: "55000"
 city: Bar le Duc
-street: "Boulevard de la Rochelle"
-housenumber: 27
-phone: "+33 3 29 79 13 06"
-opening_hours: "Mo off; Tu-Su 06:30-19:00"
-website: "https://www.dominiquecordel.com/"
+street: Boulevard de la Rochelle
+housenumber: "27"
+phone: +33 3 29 79 13 06
+opening_hours: Mo off; Tu-Su 06:30-19:00
+website: https://www.dominiquecordel.com/

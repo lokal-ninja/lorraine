@@ -4,8 +4,8 @@ latitude: 48.77184
 longitude: 5.16382
 postcode: "55000"
 city: Bar-le-Duc
-street: "Boulevard de la Rochelle"
-housenumber: 80
-phone: "+33 3 29 45 12 13"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 08:30-19:00; Su off"
-website: "https://www.sylviecoiffure.com/"
+street: Boulevard de la Rochelle
+housenumber: "80"
+phone: +33 3 29 45 12 13
+opening_hours: Mo 14:00-19:00; Tu-Sa 08:30-19:00; Su off
+website: https://www.sylviecoiffure.com/

@@ -4,8 +4,8 @@ latitude: 48.07143
 longitude: 6.8725
 postcode: "88400"
 city: Gérardmer
-street: "Rue François Mitterrand"
-housenumber: 1
-phone: "+33 3 29 63 03 64"
-opening_hours: "Tu-Sa 06:30-19:00; Su 06:30-18:30"
+street: Rue François Mitterrand
+housenumber: "1"
+phone: +33 3 29 63 03 64
+opening_hours: Tu-Sa 06:30-19:00; Su 06:30-18:30
 website: ""

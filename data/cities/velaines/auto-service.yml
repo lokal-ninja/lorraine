@@ -4,8 +4,8 @@ latitude: 48.70099
 longitude: 5.30267
 postcode: "55000"
 city: Velaines
-street: "Rue de Ligny"
-housenumber: 59
-phone: "+33 3 29 79 07 61"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa-Su off"
-website: "https://www.auto-service-garage.fr/"
+street: Rue de Ligny
+housenumber: "59"
+phone: +33 3 29 79 07 61
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa-Su off
+website: https://www.auto-service-garage.fr/

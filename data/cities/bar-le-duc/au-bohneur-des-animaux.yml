@@ -4,8 +4,8 @@ latitude: 48.77313
 longitude: 5.15779
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Jean Errard"
-housenumber: 1
-phone: "+33 3 29 45 44 70"
-opening_hours: "Mo 14:00-19:00; Tu-Su 09:00-12:00,14:00-19:00"
+street: Rue Jean Errard
+housenumber: "1"
+phone: +33 3 29 45 44 70
+opening_hours: Mo 14:00-19:00; Tu-Su 09:00-12:00,14:00-19:00
 website: ""

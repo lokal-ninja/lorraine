@@ -4,8 +4,8 @@ latitude: 47.9281
 longitude: 6.48977
 postcode: "88340"
 city: Fougerolles
-street: "Avenue de Méreilles"
-housenumber: 26
-phone: "+33 3 29 65 18 17"
-opening_hours: "Mo-Sa 14:00-18:00"
-website: "https://www.val-heureuse.com/?lang=fr"
+street: Avenue de Méreilles
+housenumber: "26"
+phone: +33 3 29 65 18 17
+opening_hours: Mo-Sa 14:00-18:00
+website: https://www.val-heureuse.com/?lang=fr

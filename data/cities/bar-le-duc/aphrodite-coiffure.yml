@@ -4,8 +4,9 @@ latitude: 48.77681
 longitude: 5.15984
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue du Four"
-housenumber: 10
-phone: "+33 3 29 45 33 69"
-opening_hours: "Mo off; Tu 09:30-19:00; We off; Th-Fr 08:30-19:00; Sa 08:00-16:30; Su off"
+street: Rue du Four
+housenumber: "10"
+phone: +33 3 29 45 33 69
+opening_hours: Mo off; Tu 09:30-19:00; We off; Th-Fr 08:30-19:00; Sa 08:00-16:30;
+    Su off
 website: ""

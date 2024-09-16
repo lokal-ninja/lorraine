@@ -1,11 +1,11 @@
 id: 1239987419
-type: way
+type: node
 latitude: 48.01457
 longitude: 6.7343
 postcode: "88120"
 city: Vagney
-street: "rue de la plaine du Bouchot"
-housenumber: 1
-phone: "+33 3 29 23 86 77"
-opening_hours: "Mo-Fr 08:00-12:00 13:30-18:00"
-website: "https://www.garageblaison.fr/"
+street: rue de la plaine du Bouchot
+housenumber: "1"
+phone: +33 3 29 23 86 77
+opening_hours: Mo-Fr 08:00-12:00 13:30-18:00
+website: https://www.garageblaison.fr/

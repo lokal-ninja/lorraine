@@ -4,8 +4,8 @@ latitude: 48.71379
 longitude: 5.05749
 postcode: "55000"
 city: Ville-sur-Saulx
-street: "Voie des Mares"
-housenumber: 12
-phone: "+33 6 61 52 31 90"
-opening_hours: "Mo off; Tu-Fr 10:00-12:00,14:00-19:00; Sa 09:00-12:00; Su off"
-website: "https://cyclesdubarrois.fr"
+street: Voie des Mares
+housenumber: "12"
+phone: +33 6 61 52 31 90
+opening_hours: Mo off; Tu-Fr 10:00-12:00,14:00-19:00; Sa 09:00-12:00; Su off
+website: https://cyclesdubarrois.fr

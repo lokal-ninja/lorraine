@@ -4,8 +4,8 @@ latitude: 48.77283
 longitude: 5.17652
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue de la Chapelle"
+street: Rue de la Chapelle
 housenumber: 5T
-phone: "+33 3 29 46 40 77"
-opening_hours: "Tu-Th 09:00-12:30,14:00-20:00; Fr-Sa 09:00-12:30,14:00-20:30; Su 09:00-17:30"
+phone: +33 3 29 46 40 77
+opening_hours: Tu-Th 09:00-12:30,14:00-20:00; Fr-Sa 09:00-12:30,14:00-20:30; Su 09:00-17:30
 website: ""

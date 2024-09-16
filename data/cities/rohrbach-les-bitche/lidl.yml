@@ -1,11 +1,11 @@
 id: 1169554546
-type: way
+type: node
 latitude: 49.04824
 longitude: 7.28812
 postcode: "57410"
 city: Rohrbach-lès-Bitche
-street: "Rue de Strasbourg"
-housenumber: 
+street: Rue de Strasbourg
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

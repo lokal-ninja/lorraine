@@ -4,8 +4,8 @@ latitude: 48.77239
 longitude: 5.15895
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 15
-phone: "+33 3 29 45 60 71"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 08:30-19:00; Sa 08:00-17:00; Su off"
+street: Rue Jean-Jacques Rousseau
+housenumber: "15"
+phone: +33 3 29 45 60 71
+opening_hours: Mo 14:00-19:00; Tu-Fr 08:30-19:00; Sa 08:00-17:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 272663829
-type: way
+type: node
 latitude: 48.71345
 longitude: 6.25022
 postcode: "54280"
 city: Seichamps
-street: "Route de Sarreguemines"
-housenumber: 
-phone: "+33 3 83292794"
+street: Route de Sarreguemines
+housenumber: ""
+phone: +33 3 83292794
 opening_hours: ""
-website: "https://store.totalenergies.fr/fr_FR/NF007367"
+website: https://store.totalenergies.fr/fr_FR/NF007367

@@ -1,11 +1,11 @@
 id: 321721067
-type: way
+type: node
 latitude: 48.76255
 longitude: 5.59694
 postcode: "55200"
 city: Commercy
-street: "Rue du Port"
-housenumber: 
+street: Rue du Port
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

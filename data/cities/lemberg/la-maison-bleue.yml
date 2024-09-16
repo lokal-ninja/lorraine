@@ -1,11 +1,11 @@
 id: 228232099
-type: way
+type: node
 latitude: 48.99965
 longitude: 7.36581
 postcode: "57620"
 city: Lemberg
-street: "Rue des Genêts"
-housenumber: 3
-phone: "+33 3 87 27 08 36"
-opening_hours: "Mo,Sa 09:00-12:00; Tu-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.lamaisonbleueliterie.com/"
+street: Rue des Genêts
+housenumber: "3"
+phone: +33 3 87 27 08 36
+opening_hours: Mo,Sa 09:00-12:00; Tu-Fr 09:00-12:00,14:00-18:00
+website: https://www.lamaisonbleueliterie.com/

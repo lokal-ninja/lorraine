@@ -1,11 +1,11 @@
 id: 97269540
-type: way
+type: node
 latitude: 48.36233
 longitude: 5.69072
 postcode: "88300"
 city: Neufchâteau
-street: "Rue Camille Sandré"
-housenumber: 3
-phone: "+33 3 29 94 01 19"
-opening_hours: "Tu-Sa 08:30-19:00; Fr 08:30-19:30"
-website: "https://boucherie-lemaire.fr/"
+street: Rue Camille Sandré
+housenumber: "3"
+phone: +33 3 29 94 01 19
+opening_hours: Tu-Sa 08:30-19:00; Fr 08:30-19:30
+website: https://boucherie-lemaire.fr/

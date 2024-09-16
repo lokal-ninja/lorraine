@@ -1,11 +1,11 @@
 id: 94426385
-type: way
+type: node
 latitude: 49.14856
 longitude: 5.40068
 postcode: "55100"
 city: Verdun
-street: "Avenue de Metz"
-housenumber: 54
-phone: "+33 9 70 82 08 21"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:30; Sa 09:00-19:30; Su 09:30-12:30"
+street: Avenue de Metz
+housenumber: "54"
+phone: +33 9 70 82 08 21
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:30; Sa 09:00-19:30; Su 09:30-12:30
 website: ""

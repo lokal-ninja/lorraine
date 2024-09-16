@@ -1,11 +1,11 @@
 id: 85185432
-type: way
+type: node
 latitude: 49.17407
 longitude: 6.88086
 postcode: "57602"
 city: Forbach
-street: "Avenue de l'Europe"
-housenumber: 
-phone: "+33 387847100"
-opening_hours: "Mo-Sa 08:00-20:30"
-website: "https://www.cora.fr/magasins/forbach-m-105"
+street: Avenue de l'Europe
+housenumber: ""
+phone: +33 387847100
+opening_hours: Mo-Sa 08:00-20:30
+website: https://www.cora.fr/magasins/forbach-m-105

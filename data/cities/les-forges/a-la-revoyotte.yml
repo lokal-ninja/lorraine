@@ -1,11 +1,11 @@
 id: 187648268
-type: way
+type: node
 latitude: 48.17817
 longitude: 6.38638
 postcode: "88390"
 city: Les Forges
-street: "Route de Mirecourt"
-housenumber: 19
-phone: "+33 9 60 44 89 97"
-opening_hours: "We-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.alarevoyotte.com/"
+street: Route de Mirecourt
+housenumber: "19"
+phone: +33 9 60 44 89 97
+opening_hours: We-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.alarevoyotte.com/

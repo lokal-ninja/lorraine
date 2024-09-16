@@ -1,11 +1,11 @@
 id: 238437526
-type: way
+type: node
 latitude: 49.41554
 longitude: 6.13721
 postcode: "57330"
 city: Hettange-Grande
-street: "Rue des Ateliers"
-housenumber: 3
+street: Rue des Ateliers
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

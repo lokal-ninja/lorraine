@@ -4,8 +4,9 @@ latitude: 48.68733
 longitude: 5.32106
 postcode: "55500"
 city: Ligny-en-Barrois
-street: "Rue des États-Unis"
-housenumber: 27
-phone: "+33 7 72 29 35 34"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Th off; Sa 09:00-12:00,14:00-19:00; Su off"
-website: "https://cyclespassion55.com/"
+street: Rue des États-Unis
+housenumber: "27"
+phone: +33 7 72 29 35 34
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Th off; Sa 09:00-12:00,14:00-19:00;
+    Su off
+website: https://cyclespassion55.com/

@@ -4,8 +4,9 @@ latitude: 49.29657
 longitude: 6.56538
 postcode: "57320"
 city: Bouzonville
-street: "ZA ROUTE de SAARLOUIS"
-housenumber: 
+street: ZA ROUTE de SAARLOUIS
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:00-12:00, 14:00-18:00; Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.meubles-divo.fr/"
+opening_hours: Mo 09:00-12:00, 14:00-18:00; Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00,
+    14:00-18:00
+website: https://www.meubles-divo.fr/

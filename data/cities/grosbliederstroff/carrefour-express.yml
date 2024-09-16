@@ -1,11 +1,11 @@
 id: 90425285
-type: way
+type: node
 latitude: 49.15399
 longitude: 7.02727
 postcode: "57520"
 city: Grosbliederstroff
-street: "Rue de la République"
-housenumber: 4
-phone: "+33 3 87 27 08 96"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-12:00"
-website: "https://www.carrefour.fr/magasin/express-grosbliederstroff"
+street: Rue de la République
+housenumber: "4"
+phone: +33 3 87 27 08 96
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-12:00
+website: https://www.carrefour.fr/magasin/express-grosbliederstroff

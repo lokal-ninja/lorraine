@@ -1,11 +1,11 @@
 id: 429184188
-type: way
+type: node
 latitude: 49.14918
 longitude: 5.4085
 postcode: "55100"
 city: Verdun
 street: ""
-housenumber: 
-phone: "+33 8 26 08 10 12"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.conforama.fr/magasins-conforama/verdun?lat=49.149008&long=5.408419&name=VERDUN"
+housenumber: ""
+phone: +33 8 26 08 10 12
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.conforama.fr/magasins-conforama/verdun?lat=49.149008&long=5.408419&name=VERDUN

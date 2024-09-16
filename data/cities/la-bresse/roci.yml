@@ -4,8 +4,8 @@ latitude: 48.0117
 longitude: 6.9407
 postcode: "88250"
 city: La Bresse
-street: "Route de vologne"
-housenumber: 60
+street: Route de vologne
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00
 website: ""

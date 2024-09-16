@@ -1,11 +1,11 @@
 id: 90488598
-type: way
+type: node
 latitude: 49.047
 longitude: 7.42817
 postcode: "57230"
 city: Bitche
-street: "Rue Jean-Jacques Kieffer"
-housenumber: 31
+street: Rue Jean-Jacques Kieffer
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Th,Sa 08:00-19:30; Fr 08:00-20:00"
+opening_hours: Mo-Th,Sa 08:00-19:30; Fr 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.7771
 longitude: 5.16041
 postcode: "55000"
 city: Bar le Duc
-street: "Rue de Couchot"
-housenumber: 14
-phone: "+33 3 29 76 22 34"
-opening_hours: "Mo off; Tu 09:00-18:00; We-Fr 09:00-19:00; Sa-Su off"
+street: Rue de Couchot
+housenumber: "14"
+phone: +33 3 29 76 22 34
+opening_hours: Mo off; Tu 09:00-18:00; We-Fr 09:00-19:00; Sa-Su off
 website: ""

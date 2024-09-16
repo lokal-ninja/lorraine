@@ -4,8 +4,8 @@ latitude: 48.70683
 longitude: 5.29761
 postcode: "55000"
 city: Velaines
-street: "Rue de Nançois"
-housenumber: 8
-phone: "+33 3 29 78 22 05"
-opening_hours: "Mo-Fr 08:30-18:00; Sa-Su off"
-website: "https://www.menuiserie-pierre-et-fils.fr/"
+street: Rue de Nançois
+housenumber: "8"
+phone: +33 3 29 78 22 05
+opening_hours: Mo-Fr 08:30-18:00; Sa-Su off
+website: https://www.menuiserie-pierre-et-fils.fr/

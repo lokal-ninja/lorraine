@@ -1,11 +1,11 @@
 id: 101993923
-type: way
+type: node
 latitude: 49.07768
 longitude: 6.69301
 postcode: "57730"
 city: Valmont
-street: "Rue du Général Becker"
-housenumber: 14
+street: Rue du Général Becker
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/valmont/"
+website: https://www.nozarrivages.com/magasin/valmont/

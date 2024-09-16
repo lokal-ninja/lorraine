@@ -1,11 +1,11 @@
 id: 377506501
-type: way
+type: node
 latitude: 49.00065
 longitude: 7.36293
 postcode: "57620"
 city: Lemberg
-street: "Rue des Genêts"
-housenumber: 8
-phone: "+33 3 87 06 62 65"
+street: Rue des Genêts
+housenumber: "8"
+phone: +33 3 87 06 62 65
 opening_hours: ""
-website: "https://diamas.fr/"
+website: https://diamas.fr/

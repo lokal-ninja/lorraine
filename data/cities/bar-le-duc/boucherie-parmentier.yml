@@ -4,8 +4,9 @@ latitude: 48.77134
 longitude: 5.16459
 postcode: "55000"
 city: Bar-le-Duc
-street: "Boulevard de la Rochelle"
-housenumber: 104
-phone: "+33 3 29 79 15 02"
-opening_hours: "Mo off; Tu-Fr 07:45-12:45,15:00-19:15; Sa 07:45-13:00,15:00-18:30; Su off"
-website: "https://www.label-viande-limousine.fr/parmentier-eric.html"
+street: Boulevard de la Rochelle
+housenumber: "104"
+phone: +33 3 29 79 15 02
+opening_hours: Mo off; Tu-Fr 07:45-12:45,15:00-19:15; Sa 07:45-13:00,15:00-18:30;
+    Su off
+website: https://www.label-viande-limousine.fr/parmentier-eric.html

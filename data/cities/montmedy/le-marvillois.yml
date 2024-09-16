@@ -1,11 +1,11 @@
 id: 1058943909
-type: way
+type: node
 latitude: 49.52262
 longitude: 5.38388
 postcode: "55600"
 city: Montmédy
-street: "Z.A. du Bossu Pré – Rue Albert 1er"
-housenumber: 
-phone: "+33 3 29 83 32 61"
-opening_hours: "Mo 14:30-18:30; Tu-Th 09:00-12:00,14:30-18:30; Fr-Sa 09:00-18:30"
-website: "https://www.lemarvillois.fr/"
+street: Z.A. du Bossu Pré – Rue Albert 1er
+housenumber: ""
+phone: +33 3 29 83 32 61
+opening_hours: Mo 14:30-18:30; Tu-Th 09:00-12:00,14:30-18:30; Fr-Sa 09:00-18:30
+website: https://www.lemarvillois.fr/

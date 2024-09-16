@@ -4,8 +4,8 @@ latitude: 48.75582
 longitude: 5.1937
 postcode: "55000"
 city: Bar-le-Duc
-street: "Avenue de la Grande Terre"
-housenumber: 1
-phone: "+33 3 29 79 75 28"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.uneheurepoursoi.com/institut/bar-le-duc/"
+street: Avenue de la Grande Terre
+housenumber: "1"
+phone: +33 3 29 79 75 28
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.uneheurepoursoi.com/institut/bar-le-duc/

@@ -1,11 +1,11 @@
 id: 201104504
-type: way
+type: node
 latitude: 48.27954
 longitude: 6.95841
 postcode: "88100"
 city: Saint-Dié-des-Vosges
-street: "Rue d'Alsace"
-housenumber: 116
+street: Rue d'Alsace
+housenumber: "116"
 phone: "+33329565456"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
 website: ""

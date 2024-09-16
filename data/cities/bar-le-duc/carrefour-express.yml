@@ -4,8 +4,8 @@ latitude: 48.77986
 longitude: 5.16687
 postcode: "55000"
 city: Bar le Duc
-street: "Place Sainte-Catherine"
-housenumber: 2
-phone: "+33 3 29 76 16 61"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-bar-le-duc"
+street: Place Sainte-Catherine
+housenumber: "2"
+phone: +33 3 29 76 16 61
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-bar-le-duc

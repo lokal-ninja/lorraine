@@ -4,8 +4,8 @@ latitude: 48.76516
 longitude: 5.17566
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Ernest Bradfer"
-housenumber: 77
+street: Rue Ernest Bradfer
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00, Su off"
-website: "https://www.action.com/"
+opening_hours: Mo-Sa 09:00-19:00, Su off
+website: https://www.action.com/

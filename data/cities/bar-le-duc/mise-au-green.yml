@@ -4,8 +4,8 @@ latitude: 48.77358
 longitude: 5.16011
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 59
-phone: "+33 3 29 76 21 55"
-opening_hours: "Mo off; Tu-Sa 10:00-12:00,14:00-19:00; Su off"
-website: "https://www.mise-au-green.com/"
+street: Rue Jean-Jacques Rousseau
+housenumber: "59"
+phone: +33 3 29 76 21 55
+opening_hours: Mo off; Tu-Sa 10:00-12:00,14:00-19:00; Su off
+website: https://www.mise-au-green.com/

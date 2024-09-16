@@ -1,11 +1,11 @@
 id: 228369664
-type: way
+type: node
 latitude: 48.98982
 longitude: 7.35866
 postcode: "57620"
 city: Saint-Louis-lès-Bitche
-street: "Rue Massenet"
-housenumber: 31
-phone: "+33 3 87 96 97 34"
-opening_hours: "Mo-Sa"
-website: "https://www.fioul-service-direct-schilt.fr/"
+street: Rue Massenet
+housenumber: "31"
+phone: +33 3 87 96 97 34
+opening_hours: Mo-Sa
+website: https://www.fioul-service-direct-schilt.fr/

@@ -4,8 +4,8 @@ latitude: 49.50756
 longitude: 5.73506
 postcode: "54720"
 city: Lexy
-street: "Rue de Longwy"
-housenumber: 45
+street: Rue de Longwy
+housenumber: "45"
 phone: ""
-opening_hours: "Tu-We,Fr 10:00-12:00,15:00-19:00; Sa 10:00-13:00"
-website: "https://www.facebook.com/lecoindesproducteurs/"
+opening_hours: Tu-We,Fr 10:00-12:00,15:00-19:00; Sa 10:00-13:00
+website: https://www.facebook.com/lecoindesproducteurs/

@@ -4,8 +4,8 @@ latitude: 48.75609
 longitude: 5.19407
 postcode: "55000"
 city: Bar-le-Duc
-street: "Avenue de la Grande Terre"
-housenumber: 1
-phone: "+33 3 29 70 99 81"
-opening_hours: "Mo 09:00-12:00,14:00-19:00; Tu-Sa 09:00-12:00,13:30-19:00"
-website: "https://www.vision-plus.fr/opticien/france/meuse/opticien-bar-le-duc-cedex/barleduc-ccleclerc"
+street: Avenue de la Grande Terre
+housenumber: "1"
+phone: +33 3 29 70 99 81
+opening_hours: Mo 09:00-12:00,14:00-19:00; Tu-Sa 09:00-12:00,13:30-19:00
+website: https://www.vision-plus.fr/opticien/france/meuse/opticien-bar-le-duc-cedex/barleduc-ccleclerc

@@ -1,11 +1,11 @@
 id: 325937492
-type: way
+type: node
 latitude: 49.03376
 longitude: 6.05897
 postcode: "57680"
 city: Corny-sur-Moselle
-street: "Rue de Metz"
-housenumber: 26
+street: Rue de Metz
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

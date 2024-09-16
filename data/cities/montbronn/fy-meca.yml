@@ -1,11 +1,11 @@
 id: 530840135
-type: way
+type: node
 latitude: 48.99929
 longitude: 7.29183
 postcode: "57415"
 city: Montbronn
-street: "Z.A. du Nassenwald"
-housenumber: 
-phone: "+33 6 87 41 07 69"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00; We off; Su off"
-website: "https://reseau.garage-premier.fr/1230214-fy-meca"
+street: Z.A. du Nassenwald
+housenumber: ""
+phone: +33 6 87 41 07 69
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00; We off; Su off
+website: https://reseau.garage-premier.fr/1230214-fy-meca

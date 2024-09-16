@@ -1,11 +1,11 @@
 id: 975384544
-type: way
+type: node
 latitude: 48.28354
 longitude: 5.77488
 postcode: "88300"
 city: Landaville
 street: ""
-housenumber: 
-phone: "+33 6 13 38 18 28"
-opening_hours: "Sa 16:00-18:00"
-website: "http://lafermedemayval.com/"
+housenumber: ""
+phone: +33 6 13 38 18 28
+opening_hours: Sa 16:00-18:00
+website: http://lafermedemayval.com/

@@ -1,11 +1,11 @@
 id: 88995986
-type: way
+type: node
 latitude: 49.35974
 longitude: 6.13584
 postcode: "57100"
 city: Thionville
-street: "Rue Abel Gance"
-housenumber: 4
-phone: "+33 3 82 54 21 42"
+street: Rue Abel Gance
+housenumber: "4"
+phone: +33 3 82 54 21 42
 opening_hours: ""
-website: "http://5150musique.com/"
+website: http://5150musique.com/

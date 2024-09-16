@@ -4,8 +4,8 @@ latitude: 48.77091
 longitude: 5.16525
 postcode: "55000"
 city: Bar-le-Duc
-street: "Boulevard de la Rochelle"
-housenumber: 118
-phone: "+33 3 29 77 12 34"
-opening_hours: "Mo 09:00-12:00; Tu-Fr 09:00-12:00,17:00-19:00; Sa 09:00-12:00; Su off"
-website: "https://bozart.fr/"
+street: Boulevard de la Rochelle
+housenumber: "118"
+phone: +33 3 29 77 12 34
+opening_hours: Mo 09:00-12:00; Tu-Fr 09:00-12:00,17:00-19:00; Sa 09:00-12:00; Su off
+website: https://bozart.fr/

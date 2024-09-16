@@ -1,11 +1,11 @@
 id: 698047641
-type: way
+type: node
 latitude: 48.28054
 longitude: 6.14345
 postcode: "88500"
 city: Mattaincourt
-street: "Rue de la Chapelle Ronde"
-housenumber: 27
+street: Rue de la Chapelle Ronde
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 14:00-18:00; Su closed"
+opening_hours: Mo-Sa 14:00-18:00; Su closed
 website: ""

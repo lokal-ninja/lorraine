@@ -1,11 +1,11 @@
 id: 46892044
-type: way
+type: node
 latitude: 48.2847
 longitude: 6.94775
 postcode: "88100"
 city: Saint-Dié-des-Vosges
-street: "Place des Déportés"
-housenumber: 
-phone: "+33 3 29 56 46 50"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-21:00"
-website: "https://www.carrefour.fr/magasin/city-saint-die-des-vosges"
+street: Place des Déportés
+housenumber: ""
+phone: +33 3 29 56 46 50
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-21:00
+website: https://www.carrefour.fr/magasin/city-saint-die-des-vosges

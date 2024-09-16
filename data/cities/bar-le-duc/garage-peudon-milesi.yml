@@ -4,8 +4,8 @@ latitude: 48.76171
 longitude: 5.1845
 postcode: "55000"
 city: Bar-le-Duc
-street: "Chemin de Popey"
-housenumber: 9
-phone: "+33 3 29 76 13 33"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-12:00,14:00-18:00"
-website: "https://peudon.multimarque.fr/"
+street: Chemin de Popey
+housenumber: "9"
+phone: +33 3 29 76 13 33
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-12:00,14:00-18:00
+website: https://peudon.multimarque.fr/

@@ -4,8 +4,8 @@ latitude: 48.00239
 longitude: 6.6165
 postcode: "88200"
 city: Remiremont
-street: "Route de Bussang"
-housenumber: 32
-phone: "+33 1 55 56 41 52"
-opening_hours: "08:00-19:30"
-website: "action.com"
+street: Route de Bussang
+housenumber: "32"
+phone: +33 1 55 56 41 52
+opening_hours: 08:00-19:30
+website: action.com

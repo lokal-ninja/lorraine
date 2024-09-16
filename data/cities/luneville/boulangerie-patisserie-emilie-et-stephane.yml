@@ -4,8 +4,8 @@ latitude: 48.58584
 longitude: 6.48277
 postcode: "54300"
 city: Lunéville
-street: "Rue Sainte-Anne"
-housenumber: 102
-phone: "+33 3 83 73 41 12"
-opening_hours: "Tu-Fr 06:00-19:15; Sa 06:00-19:00; Su 06:00-13:00,15:00-19:00"
+street: Rue Sainte-Anne
+housenumber: "102"
+phone: +33 3 83 73 41 12
+opening_hours: Tu-Fr 06:00-19:15; Sa 06:00-19:00; Su 06:00-13:00,15:00-19:00
 website: ""

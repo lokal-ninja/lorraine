@@ -1,11 +1,11 @@
 id: 106943414
-type: way
+type: node
 latitude: 48.99255
 longitude: 7.30154
 postcode: "57415"
 city: Montbronn
-street: "Rue des Verriers"
-housenumber: 25
-phone: "+33 3 87 96 35 07"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-16:00"
-website: "https://cristaldeparis.fr/"
+street: Rue des Verriers
+housenumber: "25"
+phone: +33 3 87 96 35 07
+opening_hours: Mo-Fr 08:00-12:00,13:00-16:00
+website: https://cristaldeparis.fr/

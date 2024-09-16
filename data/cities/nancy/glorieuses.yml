@@ -2,10 +2,10 @@ id: 3068773463
 type: node
 latitude: 48.69568
 longitude: 6.1946
-postcode: "54000;54100"
+postcode: 54000;54100
 city: Nancy
-street: "Rue du Pont Cézard"
-housenumber: 18
+street: Rue du Pont Cézard
+housenumber: "18"
 phone: ""
-opening_hours: "Su 14:00-19:00; We-Sa 10:00-19:00"
+opening_hours: Su 14:00-19:00; We-Sa 10:00-19:00
 website: ""

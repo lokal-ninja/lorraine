@@ -1,11 +1,11 @@
 id: 55503660
-type: way
+type: node
 latitude: 48.28276
 longitude: 6.5705
 postcode: "88700"
 city: Padoux
-street: "Rue Charles de Gaulle"
-housenumber: 4
+street: Rue Charles de Gaulle
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

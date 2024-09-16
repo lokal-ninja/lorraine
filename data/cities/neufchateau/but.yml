@@ -1,11 +1,11 @@
 id: 238692001
-type: way
+type: node
 latitude: 48.3686
 longitude: 5.70172
 postcode: "88300"
 city: Neufchâteau
-street: "Avenue de la Division Leclerc"
-housenumber: 877
+street: Avenue de la Division Leclerc
+housenumber: "877"
 phone: ""
 opening_hours: ""
 website: ""

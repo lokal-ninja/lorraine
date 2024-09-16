@@ -4,8 +4,8 @@ latitude: 49.52056
 longitude: 5.36733
 postcode: "55600"
 city: Montmédy
-street: "Rue du Luxembourg"
-housenumber: 9
-phone: "+33 6 81 30 30 52"
-opening_hours: "Tu 16:30-18:30; Su 0:00-12:00"
-website: "https://savonnerie-pom.fr/"
+street: Rue du Luxembourg
+housenumber: "9"
+phone: +33 6 81 30 30 52
+opening_hours: Tu 16:30-18:30; Su 0:00-12:00
+website: https://savonnerie-pom.fr/

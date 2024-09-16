@@ -1,11 +1,11 @@
 id: 247406462
-type: way
+type: node
 latitude: 48.59863
 longitude: 6.7478
 postcode: "54450"
 city: Reillon
-street: "Grande Rue"
+street: Grande Rue
 housenumber: 2 bis
-phone: "+33 3 83 42 45 01"
+phone: +33 3 83 42 45 01
 opening_hours: ""
-website: "http://biogam.fr/"
+website: http://biogam.fr/

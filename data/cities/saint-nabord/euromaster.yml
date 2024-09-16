@@ -1,11 +1,11 @@
 id: 263598517
-type: way
+type: node
 latitude: 48.03164
 longitude: 6.57616
 postcode: "88200"
 city: Saint-Nabord
-street: "ZA de Ranfaing"
-housenumber: 24
-phone: "+33 3 29 62 23 13"
+street: ZA de Ranfaing
+housenumber: "24"
+phone: +33 3 29 62 23 13
 opening_hours: ""
 website: ""

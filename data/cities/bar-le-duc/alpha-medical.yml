@@ -4,8 +4,8 @@ latitude: 48.77286
 longitude: 5.16615
 postcode: "55000"
 city: Bar-le-Duc
-street: "Place de la République"
-housenumber: 1
-phone: "+33 3 29 772 772"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-11:45; Su off"
-website: "http://www.alpha-medical-meuse.com/"
+street: Place de la République
+housenumber: "1"
+phone: +33 3 29 772 772
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-11:45; Su off
+website: http://www.alpha-medical-meuse.com/

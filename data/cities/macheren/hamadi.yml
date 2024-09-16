@@ -1,11 +1,11 @@
 id: 89738759
-type: way
+type: node
 latitude: 49.10071
 longitude: 6.78177
 postcode: "57730"
 city: Macheren
-street: "Rue de Rioux Martin"
-housenumber: 52
+street: Rue de Rioux Martin
+housenumber: "52"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, Tu-Fr 14:00-19:00, Sa 09:00-17:00"
+opening_hours: Tu-Fr 09:00-12:00, Tu-Fr 14:00-19:00, Sa 09:00-17:00
 website: ""

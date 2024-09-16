@@ -1,11 +1,11 @@
 id: 152406690
-type: way
+type: node
 latitude: 48.01645
 longitude: 5.82828
 postcode: "88320"
 city: Isches
-street: "Rue de La Grande Fontaine"
-housenumber: 161
+street: Rue de La Grande Fontaine
+housenumber: "161"
 phone: ""
 opening_hours: ""
-website: "http://www.la-boite-a-fromages.fr/"
+website: http://www.la-boite-a-fromages.fr/

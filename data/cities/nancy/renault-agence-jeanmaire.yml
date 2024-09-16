@@ -1,11 +1,11 @@
 id: 119953190
-type: way
+type: node
 latitude: 48.68836
 longitude: 6.20766
 postcode: "54510"
 city: Nancy
-street: "Rue Camélinat"
-housenumber: 5
+street: Rue Camélinat
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:45-18:30; Fr 08:00-12:00,13:45-18:00"
-website: "https://garage-jeanmaire-agent-renault.business.site/"
+opening_hours: Mo-Th 08:00-12:00,13:45-18:30; Fr 08:00-12:00,13:45-18:00
+website: https://garage-jeanmaire-agent-renault.business.site/

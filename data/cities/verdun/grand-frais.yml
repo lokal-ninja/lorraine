@@ -1,11 +1,11 @@
 id: 94428819
-type: way
+type: node
 latitude: 49.14915
 longitude: 5.40742
 postcode: "55100"
 city: Verdun
-street: "Rue Daniel Mornet"
-housenumber: 3
-phone: "+33 3 29 87 73 86"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Rue Daniel Mornet
+housenumber: "3"
+phone: +33 3 29 87 73 86
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

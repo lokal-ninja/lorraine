@@ -1,11 +1,11 @@
 id: 242472336
-type: way
+type: node
 latitude: 48.57978
 longitude: 6.51889
 postcode: "54300"
 city: Moncel-lès-Lunéville
-street: "Rue Clément Ader"
-housenumber: 6
+street: Rue Clément Ader
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

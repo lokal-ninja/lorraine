@@ -4,8 +4,8 @@ latitude: 48.75737
 longitude: 5.19095
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue des Brielles"
-housenumber: 14
-phone: "+33 3 29 70 29 95"
-opening_hours: "Mo 09:30-12:00,14:00-19:00; Tu-Fr 09:30-12:30,13:30-19:00; Sa 09:30-19:00"
-website: "https://www.chaussea.com/fr/shops/chaussea-bar-le-duc/"
+street: Rue des Brielles
+housenumber: "14"
+phone: +33 3 29 70 29 95
+opening_hours: Mo 09:30-12:00,14:00-19:00; Tu-Fr 09:30-12:30,13:30-19:00; Sa 09:30-19:00
+website: https://www.chaussea.com/fr/shops/chaussea-bar-le-duc/

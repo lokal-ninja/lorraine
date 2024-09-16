@@ -1,11 +1,11 @@
 id: 94431870
-type: way
+type: node
 latitude: 49.14823
 longitude: 5.41128
 postcode: "55100"
 city: Verdun
-street: "Rue Charles Delvert"
-housenumber: 
-phone: "+33 3 29 86 59 42"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00"
+street: Rue Charles Delvert
+housenumber: ""
+phone: +33 3 29 86 59 42
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00
 website: ""

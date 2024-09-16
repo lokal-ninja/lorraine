@@ -4,8 +4,8 @@ latitude: 48.7042
 longitude: 5.29845
 postcode: "55000"
 city: Velaines
-street: "Rue de Tronville"
-housenumber: 37
-phone: "+33 3 29 78 82 66"
-opening_hours: "Mo off; Tu-Fr 06:30-12:30,17:00-19:00; Sa 06:30-12:30; Su 07:00-12:00"
+street: Rue de Tronville
+housenumber: "37"
+phone: +33 3 29 78 82 66
+opening_hours: Mo off; Tu-Fr 06:30-12:30,17:00-19:00; Sa 06:30-12:30; Su 07:00-12:00
 website: ""

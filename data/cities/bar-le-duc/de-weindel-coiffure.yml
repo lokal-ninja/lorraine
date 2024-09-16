@@ -4,8 +4,8 @@ latitude: 48.77375
 longitude: 5.17499
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue de Saint-Mihiel"
-housenumber: 75
-phone: "+33 3 29 79 08 11"
-opening_hours: "Tu-Th 08:30-12:00,13:30-19:00; Fr-Sa 08:30-19:30"
-website: "https://www.de-weindel-coiffure.fr/"
+street: Rue de Saint-Mihiel
+housenumber: "75"
+phone: +33 3 29 79 08 11
+opening_hours: Tu-Th 08:30-12:00,13:30-19:00; Fr-Sa 08:30-19:30
+website: https://www.de-weindel-coiffure.fr/

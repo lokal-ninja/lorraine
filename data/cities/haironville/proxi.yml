@@ -4,8 +4,8 @@ latitude: 48.68378
 longitude: 5.08466
 postcode: "55000"
 city: Haironville
-street: "Rue Charles Collet"
-housenumber: 3
+street: Rue Charles Collet
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:30-13:00, 16:00-19:30; Su 08:30-12:30"
-website: "https://proxi-haironville.fr"
+opening_hours: Mo-Sa 08:30-13:00, 16:00-19:30; Su 08:30-12:30
+website: https://proxi-haironville.fr

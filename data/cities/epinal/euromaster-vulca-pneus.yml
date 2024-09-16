@@ -1,11 +1,11 @@
 id: 100795226
-type: way
+type: node
 latitude: 48.18987
 longitude: 6.44125
 postcode: "88000"
 city: Épinal
-street: "Avenue de la Fontenelle"
-housenumber: 13
+street: Avenue de la Fontenelle
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

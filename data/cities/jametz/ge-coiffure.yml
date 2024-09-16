@@ -1,11 +1,11 @@
 id: 1219987528
-type: way
+type: node
 latitude: 49.43192
 longitude: 5.38352
 postcode: "55600"
 city: Jametz
-street: "Rue des Huttes"
-housenumber: 1
-phone: "+33 6 79 46 39 20"
+street: Rue des Huttes
+housenumber: "1"
+phone: +33 6 79 46 39 20
 opening_hours: ""
 website: ""

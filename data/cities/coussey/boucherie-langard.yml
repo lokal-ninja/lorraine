@@ -1,11 +1,12 @@
 id: 161620719
-type: way
+type: node
 latitude: 48.40477
 longitude: 5.68455
 postcode: "88630"
 city: Coussey
-street: "Grande Rue"
+street: Grande Rue
 housenumber: 52 ter
-phone: "+33 3 29 94 29 33"
-opening_hours: "Apr-Sep Tu-Sa 08:30-12:00, 15:00-19:00; Oct-Mar Tu-Sa 08:30-12:15, 14:30-18:00"
+phone: +33 3 29 94 29 33
+opening_hours: Apr-Sep Tu-Sa 08:30-12:00, 15:00-19:00; Oct-Mar Tu-Sa 08:30-12:15,
+    14:30-18:00
 website: ""

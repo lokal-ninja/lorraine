@@ -4,8 +4,9 @@ latitude: 48.77444
 longitude: 5.16019
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue André Maginot"
+street: Rue André Maginot
 housenumber: 17;19
-phone: "+33 3 29 75 85 93"
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:00-12:00, 14:00-19:00; Fr 09:00-19:00; Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/grand-est/bar-le-duc/bar-le-duc/S-FRYROC81"
+phone: +33 3 29 75 85 93
+opening_hours: Mo 14:00-19:00; Tu-Th 09:00-12:00, 14:00-19:00; Fr 09:00-19:00; Sa
+    09:00-12:00, 14:00-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/grand-est/bar-le-duc/bar-le-duc/S-FRYROC81

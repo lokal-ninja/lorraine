@@ -1,11 +1,11 @@
 id: 106943707
-type: way
+type: node
 latitude: 48.98865
 longitude: 7.2986
 postcode: "57415"
 city: Montbronn
-street: "Rue des Tuileries"
-housenumber: 7
-phone: "+33 6 83 99 97 33"
-opening_hours: "Mo-Tu 08:30-18:30; Fr 08:30-18:30"
-website: "https://www.facebook.com/Lextension-Beauté-736547783366757/"
+street: Rue des Tuileries
+housenumber: "7"
+phone: +33 6 83 99 97 33
+opening_hours: Mo-Tu 08:30-18:30; Fr 08:30-18:30
+website: https://www.facebook.com/Lextension-Beauté-736547783366757/

@@ -4,8 +4,8 @@ latitude: 48.76967
 longitude: 5.16502
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Louis Joblot"
-housenumber: 20
-phone: "+33 3 29 75 94 03"
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-14:00; Su off"
+street: Rue Louis Joblot
+housenumber: "20"
+phone: +33 3 29 75 94 03
+opening_hours: Mo off; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-14:00; Su off
 website: ""

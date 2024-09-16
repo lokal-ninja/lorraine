@@ -1,11 +1,11 @@
 id: 90491140
-type: way
+type: node
 latitude: 49.04235
 longitude: 7.4287
 postcode: "57230"
 city: Bitche
-street: "Rue Jean-Jacques Kieffer"
-housenumber: 51
+street: Rue Jean-Jacques Kieffer
+housenumber: "51"
 phone: "+33372290156"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.totem-family.fr/"
+opening_hours: Mo-Fr 09:30-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00
+website: https://www.totem-family.fr/

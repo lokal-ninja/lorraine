@@ -4,8 +4,9 @@ latitude: 48.19063
 longitude: 6.47205
 postcode: "88000"
 city: Épinal
-street: "Avenue des Terres-Saint-Jean"
-housenumber: 17
+street: Avenue des Terres-Saint-Jean
+housenumber: "17"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-We 09:30-12:00,14:00-18:30; Th 14:00-18:30; Fr-Sa 09:30-12:00,14:00-18:30; Su off"
+opening_hours: Mo 14:00-18:30; Tu-We 09:30-12:00,14:00-18:30; Th 14:00-18:30; Fr-Sa
+    09:30-12:00,14:00-18:30; Su off
 website: ""

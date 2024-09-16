@@ -1,11 +1,11 @@
 id: 204295341
-type: way
+type: node
 latitude: 49.05563
 longitude: 7.4325
 postcode: "57230"
 city: Bitche
-street: "Rue Saint-Augustin"
-housenumber: 63
-phone: "+33 3 87 96 01 06"
-opening_hours: "Mo 07:30-12:00; Tu-Fr 06:30-18:30; Sa 07:00-18:00; Su 07:30-12:00"
-website: "https://bureautabac.fr/57/bitche/hoellinger-catherine-gsp"
+street: Rue Saint-Augustin
+housenumber: "63"
+phone: +33 3 87 96 01 06
+opening_hours: Mo 07:30-12:00; Tu-Fr 06:30-18:30; Sa 07:00-18:00; Su 07:30-12:00
+website: https://bureautabac.fr/57/bitche/hoellinger-catherine-gsp

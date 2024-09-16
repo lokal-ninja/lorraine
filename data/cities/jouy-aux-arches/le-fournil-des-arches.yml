@@ -1,11 +1,11 @@
 id: 314784299
-type: way
+type: node
 latitude: 49.06532
 longitude: 6.07961
 postcode: "57130"
 city: Jouy-aux-Arches
-street: "Grand'Rue"
-housenumber: 29
+street: Grand'Rue
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

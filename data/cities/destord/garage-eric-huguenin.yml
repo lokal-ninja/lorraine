@@ -1,11 +1,11 @@
 id: 40949372
-type: way
+type: node
 latitude: 48.27693
 longitude: 6.62439
 postcode: "88700"
 city: Destord
-street: "Rue de Rambervillers"
-housenumber: 581
+street: Rue de Rambervillers
+housenumber: "581"
 phone: ""
 opening_hours: ""
 website: ""

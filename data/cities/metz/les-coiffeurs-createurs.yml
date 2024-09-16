@@ -4,8 +4,9 @@ latitude: 49.11788
 longitude: 6.17408
 postcode: "57000"
 city: Metz
-street: "Rue des Clercs"
-housenumber: 11
+street: Rue des Clercs
+housenumber: "11"
 phone: ""
-opening_hours: "Tu 09:00-18:00,We 09:00-18:00,Fr 09:00-18:00, Th 11:30-21:00,Sa 9:00-17:00,Su off"
+opening_hours: Tu 09:00-18:00,We 09:00-18:00,Fr 09:00-18:00, Th 11:30-21:00,Sa 9:00-17:00,Su
+    off
 website: ""

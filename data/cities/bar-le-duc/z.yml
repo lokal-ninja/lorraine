@@ -4,8 +4,8 @@ latitude: 48.77371
 longitude: 5.16035
 postcode: "55000"
 city: Bar le Duc
-street: "Boulevard de la Rochelle"
-housenumber: 9
-phone: "+33 3 29 76 11 76"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00; Su off"
-website: "https://www.z-eshop.com/"
+street: Boulevard de la Rochelle
+housenumber: "9"
+phone: +33 3 29 76 11 76
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00; Su off
+website: https://www.z-eshop.com/

@@ -4,8 +4,8 @@ latitude: 48.75685
 longitude: 5.19147
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue des Brielles"
-housenumber: 16
-phone: "+33 3 29 46 49 40"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.gemo.fr/magasin/GEMO_BAR_LE_DUC_Chaussures_&_V%C3%AAtements/GEMO_2316"
+street: Rue des Brielles
+housenumber: "16"
+phone: +33 3 29 46 49 40
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.gemo.fr/magasin/GEMO_BAR_LE_DUC_Chaussures_&_V%C3%AAtements/GEMO_2316

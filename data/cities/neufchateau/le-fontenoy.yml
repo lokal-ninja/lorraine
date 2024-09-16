@@ -1,11 +1,11 @@
 id: 97270668
-type: way
+type: node
 latitude: 48.35533
 longitude: 5.69236
 postcode: "88300"
 city: Neufchâteau
-street: "Rue de France"
-housenumber: 30
-phone: "+33 3 29 94 11 37"
-opening_hours: "Mo-Sa 06:30-12:00, 14:00-19:15"
+street: Rue de France
+housenumber: "30"
+phone: +33 3 29 94 11 37
+opening_hours: Mo-Sa 06:30-12:00, 14:00-19:15
 website: ""

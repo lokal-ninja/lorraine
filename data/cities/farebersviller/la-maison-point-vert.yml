@@ -4,8 +4,8 @@ latitude: 49.11361
 longitude: 6.85093
 postcode: "57450"
 city: Farébersviller
-street: "Avenue Saint-Jean"
-housenumber: 61
-phone: "+33 3 87 56 57 77"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.magasin-point-vert.fr/magasin/farebersviller"
+street: Avenue Saint-Jean
+housenumber: "61"
+phone: +33 3 87 56 57 77
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.magasin-point-vert.fr/magasin/farebersviller

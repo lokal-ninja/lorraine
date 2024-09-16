@@ -1,11 +1,11 @@
 id: 114225307
-type: way
+type: node
 latitude: 49.14362
 longitude: 5.41071
 postcode: "55100"
 city: Haudainville
 street: ""
-housenumber: 
-phone: "+33 3 29 83 40 40"
-opening_hours: "Mo-Fr 09:30-12:30,13:30-18:30; Sa 09:00-12:00; Su off"
-website: "https://www.medical-service55.fr/"
+housenumber: ""
+phone: +33 3 29 83 40 40
+opening_hours: Mo-Fr 09:30-12:30,13:30-18:30; Sa 09:00-12:00; Su off
+website: https://www.medical-service55.fr/

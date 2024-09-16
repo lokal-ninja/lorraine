@@ -4,8 +4,8 @@ latitude: 48.77514
 longitude: 5.15905
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue du Cygne"
-housenumber: 22
-phone: "+33 6 77 11 80 52"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+street: Rue du Cygne
+housenumber: "22"
+phone: +33 6 77 11 80 52
+opening_hours: Mo-Sa 08:00-20:00; Su off
 website: ""

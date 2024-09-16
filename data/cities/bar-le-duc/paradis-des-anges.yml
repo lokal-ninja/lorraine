@@ -4,8 +4,8 @@ latitude: 48.77491
 longitude: 5.16034
 postcode: "55000"
 city: Bar le Duc
-street: "Rue Notre-Dame"
-housenumber: 7
-phone: "+33 3 29 46 44 30"
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su off"
-website: "http://paradisdesanges.fr/"
+street: Rue Notre-Dame
+housenumber: "7"
+phone: +33 3 29 46 44 30
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su off
+website: http://paradisdesanges.fr/

@@ -1,11 +1,11 @@
 id: 228232059
-type: way
+type: node
 latitude: 48.99946
 longitude: 7.37038
 postcode: "57620"
 city: Lemberg
-street: "Rue de Sarreguemines"
-housenumber: 
-phone: "+33 9 80 82 32 78"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.voiture-sans-permis57.com/"
+street: Rue de Sarreguemines
+housenumber: ""
+phone: +33 9 80 82 32 78
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.voiture-sans-permis57.com/

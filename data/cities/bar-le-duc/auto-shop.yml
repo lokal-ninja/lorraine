@@ -4,8 +4,8 @@ latitude: 48.77537
 longitude: 5.15901
 postcode: "55000"
 city: Bar-le-Duc
-street: "Boulevard Raymond Poincaré"
-housenumber: 3
-phone: "+33 3 29 45 31 31"
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; Su off"
+street: Boulevard Raymond Poincaré
+housenumber: "3"
+phone: +33 3 29 45 31 31
+opening_hours: Mo off; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; Su off
 website: ""

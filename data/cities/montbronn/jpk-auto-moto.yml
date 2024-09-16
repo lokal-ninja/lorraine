@@ -1,11 +1,11 @@
 id: 113748984
-type: way
+type: node
 latitude: 48.98996
 longitude: 7.29602
 postcode: "57415"
 city: Montbronn
-street: "Rue du Stade"
-housenumber: 62
-phone: "+33 3 87 06 84 67"
-opening_hours: "Mo 13:30-18:00; Tu-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00"
-website: "https://garage-jpk.multimarque.fr/"
+street: Rue du Stade
+housenumber: "62"
+phone: +33 3 87 06 84 67
+opening_hours: Mo 13:30-18:00; Tu-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00
+website: https://garage-jpk.multimarque.fr/

@@ -1,11 +1,11 @@
 id: 101994042
-type: way
+type: node
 latitude: 49.08886
 longitude: 6.70621
 postcode: "57730"
 city: Valmont
-street: "Rue Bellefontaine"
-housenumber: 
+street: Rue Bellefontaine
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

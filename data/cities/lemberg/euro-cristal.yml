@@ -1,11 +1,11 @@
 id: 228231806
-type: way
+type: node
 latitude: 48.99882
 longitude: 7.37153
 postcode: "57620"
 city: Lemberg
-street: "Rue Émile Gallé"
-housenumber: 2
-phone: "+33 3 87 06 84 84"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00; Sa 09:00-12:00"
+street: Rue Émile Gallé
+housenumber: "2"
+phone: +33 3 87 06 84 84
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00; Sa 09:00-12:00
 website: ""

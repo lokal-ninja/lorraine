@@ -1,11 +1,11 @@
 id: 90490141
-type: way
+type: node
 latitude: 49.0493
 longitude: 7.43158
 postcode: "57230"
 city: Bitche
-street: "Place de la Gare"
-housenumber: 
+street: Place de la Gare
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

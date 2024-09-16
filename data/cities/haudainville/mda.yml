@@ -1,11 +1,11 @@
 id: 170707004
-type: way
+type: node
 latitude: 49.14052
 longitude: 5.40759
 postcode: "55100"
 city: Haudainville
-street: "Boulevard de l'Europe"
-housenumber: 5
-phone: "+33 3 29 87 93 82"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 09:30-12:00,14:30-19:00; Su off"
+street: Boulevard de l'Europe
+housenumber: "5"
+phone: +33 3 29 87 93 82
+opening_hours: Mo 14:30-19:00; Tu-Sa 09:30-12:00,14:30-19:00; Su off
 website: ""

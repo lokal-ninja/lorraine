@@ -4,8 +4,8 @@ latitude: 48.78951
 longitude: 5.1385
 postcode: "55000"
 city: Fains-Véel
-street: "Route de Reims"
-housenumber: 2
-phone: "+33 3 29 45 30 22"
-opening_hours: "Mo 08:00-12:00,14:00-18:00; Tu-Fr 00:00-12:00,14:00-17:30; Sa off"
-website: "http://sasgenin-barleduc.fr/index.html"
+street: Route de Reims
+housenumber: "2"
+phone: +33 3 29 45 30 22
+opening_hours: Mo 08:00-12:00,14:00-18:00; Tu-Fr 00:00-12:00,14:00-17:30; Sa off
+website: http://sasgenin-barleduc.fr/index.html

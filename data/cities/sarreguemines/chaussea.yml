@@ -1,11 +1,11 @@
 id: 503168568
-type: way
+type: node
 latitude: 49.11514
 longitude: 7.09232
 postcode: "57200"
 city: Sarreguemines
-street: "Rue des Acacias"
-housenumber: 2
+street: Rue des Acacias
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

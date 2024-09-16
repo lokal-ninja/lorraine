@@ -1,11 +1,11 @@
 id: 147940626
-type: way
+type: node
 latitude: 48.22837
 longitude: 6.43278
 postcode: "88150"
 city: Chavelot
-street: "Rue de la Fougère"
-housenumber: 7
+street: Rue de la Fougère
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/chavelot/"
+website: https://nozarrivages.com/magasin/chavelot/

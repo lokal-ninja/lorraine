@@ -1,11 +1,11 @@
 id: 299902092
-type: way
+type: node
 latitude: 49.13345
 longitude: 6.15304
 postcode: ""
 city: Metz
 street: ""
-housenumber: 77
-phone: "+33 3 87 32 72 05"
+housenumber: "77"
+phone: +33 3 87 32 72 05
 opening_hours: ""
 website: ""

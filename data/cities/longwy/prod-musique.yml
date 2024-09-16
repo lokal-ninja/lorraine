@@ -4,8 +4,8 @@ latitude: 49.5158
 longitude: 5.76872
 postcode: "54400"
 city: Longwy
-street: "Avenue de Saintignon"
-housenumber: 12
-phone: "+33 3 82 24 74 45"
-opening_hours: "Tu-Sa 10:00-12:00, 14:00-19:00"
-website: "https://www.prod-musique.com/"
+street: Avenue de Saintignon
+housenumber: "12"
+phone: +33 3 82 24 74 45
+opening_hours: Tu-Sa 10:00-12:00, 14:00-19:00
+website: https://www.prod-musique.com/

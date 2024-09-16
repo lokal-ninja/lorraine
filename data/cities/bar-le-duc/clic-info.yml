@@ -4,8 +4,8 @@ latitude: 48.771
 longitude: 5.16884
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue de Verdun"
-housenumber: 14
-phone: "+33 3 29 45 62 36"
+street: Rue de Verdun
+housenumber: "14"
+phone: +33 3 29 45 62 36
 opening_hours: ""
-website: "http://www.clic-info.fr/"
+website: http://www.clic-info.fr/

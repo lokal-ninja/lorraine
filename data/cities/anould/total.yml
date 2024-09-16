@@ -4,8 +4,8 @@ latitude: 48.18765
 longitude: 6.95433
 postcode: "88650"
 city: Anould
-street: "Rue de Colmar"
-housenumber: 104
-phone: "+33 3 57 90 01 50"
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/en_EN/NF029001"
+street: Rue de Colmar
+housenumber: "104"
+phone: +33 3 57 90 01 50
+opening_hours: 24/7
+website: https://store.totalenergies.fr/en_EN/NF029001

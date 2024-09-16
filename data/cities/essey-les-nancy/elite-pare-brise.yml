@@ -1,11 +1,11 @@
 id: 120187755
-type: way
+type: node
 latitude: 48.71101
 longitude: 6.24472
 postcode: "54270"
 city: Essey-lès-Nancy
-street: "Avenue du 69e Régiment d'Infanterie"
-housenumber: 158
-phone: "+333 66 88 39 20"
+street: Avenue du 69e Régiment d'Infanterie
+housenumber: "158"
+phone: +333 66 88 39 20
 opening_hours: ""
-website: "https://nancy.eliteparebrise.fr/"
+website: https://nancy.eliteparebrise.fr/

@@ -4,8 +4,8 @@ latitude: 48.75708
 longitude: 5.19125
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue des Brielles"
-housenumber: 18
-phone: "+33 970 820 821"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00; Su 09:30-12:30"
-website: "https://www.thiriet.com/magasins/fiche,13,1158.html?&args=Y29tcF9pZD0xNzEmYWN0aW9uPWZpY2hlJmlkPTE2Mg=="
+street: Rue des Brielles
+housenumber: "18"
+phone: +33 970 820 821
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00; Su 09:30-12:30
+website: https://www.thiriet.com/magasins/fiche,13,1158.html?&args=Y29tcF9pZD0xNzEmYWN0aW9uPWZpY2hlJmlkPTE2Mg==

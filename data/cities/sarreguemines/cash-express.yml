@@ -4,8 +4,10 @@ latitude: 49.11717
 longitude: 7.08719
 postcode: "57200"
 city: Sarreguemines
-street: "Rue des Ormes"
-housenumber: 14
+street: Rue des Ormes
+housenumber: "14"
 phone: ""
-opening_hours: "Mo 14:00-19:00 Achat produit; Tu-Sa 10:00-12:00, 14:00-19:00 Achat produit || Mo 14:00-18:45 Vente de vos produits; Tu-Sa 10:00-12:00, 14:00-18:45 Vente de vos produits"
+opening_hours: Mo 14:00-19:00 "Achat produit"; Tu-Sa 10:00-12:00, 14:00-19:00 "Achat
+    produit" || Mo 14:00-18:45 "Vente de vos produits"; Tu-Sa 10:00-12:00, 14:00-18:45
+    "Vente de vos produits"
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.35642
 longitude: 5.69263
 postcode: "88300"
 city: Neufchâteau
-street: "Rue de France"
-housenumber: 9
-phone: "+33 3 29 94 13 55"
-opening_hours: "Mo-Sa 06:15-12:15, 14:00-19:15; Su 07:30-12:30"
-website: "https://www.maisondelapresse.com/magasin/MaisondelaPresse-88300-neufchateau.html"
+street: Rue de France
+housenumber: "9"
+phone: +33 3 29 94 13 55
+opening_hours: Mo-Sa 06:15-12:15, 14:00-19:15; Su 07:30-12:30
+website: https://www.maisondelapresse.com/magasin/MaisondelaPresse-88300-neufchateau.html

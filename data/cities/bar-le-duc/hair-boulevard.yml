@@ -4,8 +4,8 @@ latitude: 48.77127
 longitude: 5.16469
 postcode: "55000"
 city: Bar-le-Duc
-street: "Boulevard de la Rochelle"
-housenumber: 106
-phone: "+33 3 72 55 97 25"
-opening_hours: "Mo-Fr 09:00-19:00; We 09:00-12:30; Sa 09:00-16:30; Su off"
+street: Boulevard de la Rochelle
+housenumber: "106"
+phone: +33 3 72 55 97 25
+opening_hours: Mo-Fr 09:00-19:00; We 09:00-12:30; Sa 09:00-16:30; Su off
 website: ""

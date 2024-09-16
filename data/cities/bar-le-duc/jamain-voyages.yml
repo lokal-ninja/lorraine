@@ -4,8 +4,9 @@ latitude: 48.77603
 longitude: 5.16152
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Bar la Ville"
-housenumber: 15
-phone: "+33 3 29 70 07 76"
-opening_hours: "Mo 10:00-12:00,14:00-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:30-12:00,13:00-16:30; Su off"
+street: Rue Bar la Ville
+housenumber: "15"
+phone: +33 3 29 70 07 76
+opening_hours: Mo 10:00-12:00,14:00-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:30-12:00,13:00-16:30;
+    Su off
 website: ""

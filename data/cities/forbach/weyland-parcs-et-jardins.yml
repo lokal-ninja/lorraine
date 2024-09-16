@@ -4,8 +4,8 @@ latitude: 49.19014
 longitude: 6.90581
 postcode: "57600"
 city: Forbach
-street: "Rue de Schoeneck"
-housenumber: 3
+street: Rue de Schoeneck
+housenumber: "3"
 phone: "0387133812"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.weylandpj.com/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.weylandpj.com/

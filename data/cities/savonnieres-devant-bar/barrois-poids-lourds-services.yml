@@ -4,8 +4,8 @@ latitude: 48.76174
 longitude: 5.1763
 postcode: "55000"
 city: Savonnières-devant-Bar
-street: "Rue des Saponaires"
-housenumber: 2
-phone: "+33 3 29 79 05 39"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su off"
-website: "https://www.renault-trucks.net/barrois-poids-lourds-services"
+street: Rue des Saponaires
+housenumber: "2"
+phone: +33 3 29 79 05 39
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su off
+website: https://www.renault-trucks.net/barrois-poids-lourds-services

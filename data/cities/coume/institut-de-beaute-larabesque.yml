@@ -1,11 +1,11 @@
 id: 338594198
-type: way
+type: node
 latitude: 49.19984
 longitude: 6.57885
 postcode: "57220"
 city: COUME
-street: "Rue de Guerting"
-housenumber: 10
+street: Rue de Guerting
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

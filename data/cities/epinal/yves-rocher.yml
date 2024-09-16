@@ -1,11 +1,11 @@
 id: 100812680
-type: way
+type: node
 latitude: 48.17567
 longitude: 6.44755
 postcode: "88000"
 city: Epinal
-street: "Rue Léopold Bourg"
-housenumber: 15
-phone: "+33 3 29 35 19 06"
-opening_hours: "Tu-Sa 09:15-19:00"
-website: "http://yves-rocher.fr/epinal"
+street: Rue Léopold Bourg
+housenumber: "15"
+phone: +33 3 29 35 19 06
+opening_hours: Tu-Sa 09:15-19:00
+website: http://yves-rocher.fr/epinal

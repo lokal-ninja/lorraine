@@ -1,11 +1,11 @@
 id: 97272132
-type: way
+type: node
 latitude: 48.37064
 longitude: 5.70646
 postcode: "88300"
 city: Neufchâteau
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

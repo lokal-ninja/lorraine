@@ -1,11 +1,11 @@
 id: 312136638
-type: way
+type: node
 latitude: 48.71873
 longitude: 7.04242
 postcode: "57400"
 city: Sarrebourg
-street: "Zone artisanale les terrasses de la Sarre"
-housenumber: 
-phone: "+33 3 87 25 78 90"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-sarrebourg-0070027600276"
+street: Zone artisanale les terrasses de la Sarre
+housenumber: ""
+phone: +33 3 87 25 78 90
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-sarrebourg-0070027600276

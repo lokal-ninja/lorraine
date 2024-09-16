@@ -4,8 +4,8 @@ latitude: 48.77314
 longitude: 5.1559
 postcode: "55000"
 city: Bar-le-Duc
-street: "Place de la Couronne"
-housenumber: 2
-phone: "+33 3 29 76 34 65"
-opening_hours: "Mo-Th 08:15-13:15,16:15-19:00; Fr-Sa off; Su 08:15-13:15,16:15-19:00"
+street: Place de la Couronne
+housenumber: "2"
+phone: +33 3 29 76 34 65
+opening_hours: Mo-Th 08:15-13:15,16:15-19:00; Fr-Sa off; Su 08:15-13:15,16:15-19:00
 website: ""

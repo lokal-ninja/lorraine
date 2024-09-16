@@ -4,8 +4,8 @@ latitude: 48.77187
 longitude: 5.17545
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue de l'Étoile"
-housenumber: 35
-phone: "+33 3 29 79 06 81"
-opening_hours: "Mo-Fr 10:00-12:00,14:30-18:00; Sa 10:00-12:00,14:00-16:00"
-website: "https://www.groseille.com/"
+street: Rue de l'Étoile
+housenumber: "35"
+phone: +33 3 29 79 06 81
+opening_hours: Mo-Fr 10:00-12:00,14:30-18:00; Sa 10:00-12:00,14:00-16:00
+website: https://www.groseille.com/

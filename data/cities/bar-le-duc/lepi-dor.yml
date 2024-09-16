@@ -4,8 +4,8 @@ latitude: 48.77129
 longitude: 5.16794
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue de Saint-Mihiel"
-housenumber: 10
+street: Rue de Saint-Mihiel
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-13:30; Th off; Su 07:00-13:00"
+opening_hours: Mo-Sa 07:00-13:30; Th off; Su 07:00-13:00
 website: ""

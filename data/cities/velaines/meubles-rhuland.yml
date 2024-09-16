@@ -1,11 +1,11 @@
 id: 311541645
-type: way
+type: node
 latitude: 48.70519
 longitude: 5.2937
 postcode: "55000"
 city: Velaines
 street: ""
-housenumber: 
-phone: "+33 3 29 78 87 93"
-opening_hours: "Mo-Sa 09:30-12:00,14:00-19:00; Su off"
-website: "https://lesexpertsmeubles.fr/"
+housenumber: ""
+phone: +33 3 29 78 87 93
+opening_hours: Mo-Sa 09:30-12:00,14:00-19:00; Su off
+website: https://lesexpertsmeubles.fr/

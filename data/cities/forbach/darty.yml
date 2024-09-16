@@ -1,11 +1,11 @@
 id: 85166764
-type: way
+type: node
 latitude: 49.1766
 longitude: 6.88255
 postcode: "57600"
 city: Forbach
-street: "Rue Nationale"
-housenumber: 
+street: Rue Nationale
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 562077489
-type: way
+type: node
 latitude: 48.71117
 longitude: 6.24463
 postcode: "54270"
 city: Essey-lès-Nancy
-street: "Avenue du 69e Régiment d'Infanterie"
-housenumber: 158
+street: Avenue du 69e Régiment d'Infanterie
+housenumber: "158"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00"
-website: "https://agents.peugeot.fr/lda-essey"
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00
+website: https://agents.peugeot.fr/lda-essey

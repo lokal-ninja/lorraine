@@ -1,11 +1,11 @@
 id: 198766634
-type: way
+type: node
 latitude: 49.26196
 longitude: 6.17512
 postcode: "57300"
 city: Mondelange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

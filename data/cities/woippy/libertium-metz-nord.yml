@@ -1,11 +1,11 @@
 id: 1263568893
-type: way
+type: node
 latitude: 49.16369
 longitude: 6.1614
 postcode: "57140"
 city: Woippy
-street: "Route de Thionville"
-housenumber: 171
+street: Route de Thionville
+housenumber: "171"
 phone: "0387310585"
-opening_hours: "Ma-Sa 09:00-18:00"
-website: "https://www.libertium.fr/"
+opening_hours: Ma-Sa 09:00-18:00
+website: https://www.libertium.fr/

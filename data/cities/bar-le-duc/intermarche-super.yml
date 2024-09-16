@@ -4,8 +4,8 @@ latitude: 48.78677
 longitude: 5.13598
 postcode: "55000"
 city: Bar le Duc
-street: "Rue de Bar"
-housenumber: 40
-phone: "+33 3 29 45 32 25"
-opening_hours: "Mo-We 09:00-12:15,14:00-19:30; Th-Sa 09:00-19:30; Su off"
-website: "https://www.intermarche.com/"
+street: Rue de Bar
+housenumber: "40"
+phone: +33 3 29 45 32 25
+opening_hours: Mo-We 09:00-12:15,14:00-19:30; Th-Sa 09:00-19:30; Su off
+website: https://www.intermarche.com/

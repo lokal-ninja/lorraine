@@ -1,11 +1,11 @@
 id: 97610756
-type: way
+type: node
 latitude: 48.72025
 longitude: 7.04658
 postcode: "57400"
 city: Sarrebourg
-street: "Terrasse Bourgogne"
-housenumber: 1
+street: Terrasse Bourgogne
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

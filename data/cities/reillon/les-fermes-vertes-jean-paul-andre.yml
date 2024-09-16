@@ -4,8 +4,8 @@ latitude: 48.59743
 longitude: 6.73928
 postcode: "54450"
 city: Reillon
-street: "Grande Rue"
-housenumber: 27
-phone: "+33 3 83 42 36 85"
-opening_hours: "Th 17:00-19:00"
-website: "https://www.lesfermesvertes.fr/"
+street: Grande Rue
+housenumber: "27"
+phone: +33 3 83 42 36 85
+opening_hours: Th 17:00-19:00
+website: https://www.lesfermesvertes.fr/

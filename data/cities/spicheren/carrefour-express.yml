@@ -1,11 +1,11 @@
 id: 434923296
-type: way
+type: node
 latitude: 49.1912
 longitude: 6.96521
 postcode: "57350"
 city: Spicheren
-street: "Place de la Charente"
-housenumber: 26
-phone: "+33 3 87 29 86 36"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:00"
-website: "https://www.carrefour.fr/magasin/express-spicheren"
+street: Place de la Charente
+housenumber: "26"
+phone: +33 3 87 29 86 36
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:00
+website: https://www.carrefour.fr/magasin/express-spicheren

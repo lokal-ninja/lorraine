@@ -1,11 +1,11 @@
 id: 1200896984
-type: way
+type: node
 latitude: 48.70706
 longitude: 6.23441
 postcode: "54270"
 city: Essey-lès-Nancy
-street: "Avenue du 69e Régiment d'Infanterie"
-housenumber: 58
-phone: "+333 83 29 73 12"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-17:00"
-website: "https://www.piscines-magiline.fr/pisciniste-magasin-piscines/fr-grand-est-meurthe-et-moselle-distributeur-piscines-magiline-essey-les-nancy/#"
+street: Avenue du 69e Régiment d'Infanterie
+housenumber: "58"
+phone: +333 83 29 73 12
+opening_hours: Tu-Sa 09:00-12:00,14:00-17:00
+website: https://www.piscines-magiline.fr/pisciniste-magasin-piscines/fr-grand-est-meurthe-et-moselle-distributeur-piscines-magiline-essey-les-nancy/#

@@ -1,11 +1,11 @@
 id: 90490633
-type: way
+type: node
 latitude: 49.05231
 longitude: 7.42586
 postcode: "57230"
 city: Bitche
-street: "Rue de Sarreguemines"
-housenumber: 2
-phone: "+33 3 87 96 04 60"
+street: Rue de Sarreguemines
+housenumber: "2"
+phone: +33 3 87 96 04 60
 opening_hours: ""
-website: "https://bureautabac.fr/57/bitche/tabac-de-la-citadelle-8he"
+website: https://bureautabac.fr/57/bitche/tabac-de-la-citadelle-8he

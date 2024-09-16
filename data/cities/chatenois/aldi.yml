@@ -1,11 +1,11 @@
 id: 97628385
-type: way
+type: node
 latitude: 48.29955
 longitude: 5.84015
 postcode: "88170"
 city: Châtenois
-street: "Rue Pierre de Coubertin"
-housenumber: 14
+street: Rue Pierre de Coubertin
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.aldi.fr/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.aldi.fr/

@@ -4,8 +4,8 @@ latitude: 47.98806
 longitude: 6.84138
 postcode: "88310"
 city: Cornimont
-street: "Route de Lansauchamp"
-housenumber: 23
-phone: "+33 9 72 64 18 13"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00, 14:00-17:00"
-website: "https://www.facebook.com/labri88/"
+street: Route de Lansauchamp
+housenumber: "23"
+phone: +33 9 72 64 18 13
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00, 14:00-17:00
+website: https://www.facebook.com/labri88/

@@ -1,11 +1,11 @@
 id: 141668372
-type: way
+type: node
 latitude: 49.1604
 longitude: 5.87578
 postcode: "54800"
 city: Jarny
-street: "Avenue de la République"
-housenumber: 58
+street: Avenue de la République
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

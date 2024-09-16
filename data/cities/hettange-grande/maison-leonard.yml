@@ -1,11 +1,11 @@
 id: 238445385
-type: way
+type: node
 latitude: 49.40618
 longitude: 6.1508
 postcode: "57330"
 city: Hettange-Grande
-street: "Rue Charles de Gaulle"
-housenumber: 35
-phone: "+33 3 82 53 14 15"
+street: Rue Charles de Gaulle
+housenumber: "35"
+phone: +33 3 82 53 14 15
 opening_hours: ""
 website: ""

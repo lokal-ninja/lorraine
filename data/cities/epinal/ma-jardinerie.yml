@@ -1,11 +1,11 @@
 id: 100813319
-type: way
+type: node
 latitude: 48.19512
 longitude: 6.46182
 postcode: "88000"
 city: Épinal
-street: "Route de Jeuxey"
-housenumber: 
+street: Route de Jeuxey
+housenumber: ""
 phone: "+33329344477"
 opening_hours: ""
-website: "https://shop.majardinerie.com/epinal/?id_shop=7"
+website: https://shop.majardinerie.com/epinal/?id_shop=7

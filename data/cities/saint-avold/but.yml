@@ -1,11 +1,11 @@
 id: 86006958
-type: way
+type: node
 latitude: 49.1151
 longitude: 6.70909
 postcode: "57500"
 city: Saint-Avold
-street: "Rue de Brack"
-housenumber: 2
+street: Rue de Brack
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:15-12:00,14:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:15-12:00,14:00-19:00
 website: ""

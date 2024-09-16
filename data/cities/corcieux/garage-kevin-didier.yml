@@ -4,8 +4,8 @@ latitude: 48.17096
 longitude: 6.88311
 postcode: "88430"
 city: Corcieux
-street: "Rue d'Alsace"
-housenumber: 3
-phone: "+33 3 29 50 65 77"
-opening_hours: "Mo-Fr 7:30-12:00, 13:30-18:00; Sa 8:00-12:00"
-website: "https://www.eurorepar.fr"
+street: Rue d'Alsace
+housenumber: "3"
+phone: +33 3 29 50 65 77
+opening_hours: Mo-Fr 7:30-12:00, 13:30-18:00; Sa 8:00-12:00
+website: https://www.eurorepar.fr

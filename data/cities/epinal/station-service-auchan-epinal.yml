@@ -1,11 +1,11 @@
 id: 100805376
-type: way
+type: node
 latitude: 48.18479
 longitude: 6.46723
 postcode: "88000"
 city: Épinal
-street: "Avenue de Saint-Dié"
-housenumber: 
+street: Avenue de Saint-Dié
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

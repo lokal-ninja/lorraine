@@ -1,11 +1,11 @@
 id: 228369593
-type: way
+type: node
 latitude: 48.98753
 longitude: 7.35502
 postcode: "57620"
 city: Saint-Louis-lès-Bitche
-street: "Rue Coëtlosquet"
-housenumber: 
-phone: "+33 3 87 06 60 15"
-opening_hours: "Mo-Su 10:00-18:00; Tu off"
+street: Rue Coëtlosquet
+housenumber: ""
+phone: +33 3 87 06 60 15
+opening_hours: Mo-Su 10:00-18:00; Tu off
 website: ""

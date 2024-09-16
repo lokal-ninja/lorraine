@@ -1,11 +1,11 @@
 id: 293170955
-type: way
+type: node
 latitude: 48.76409
 longitude: 7.25381
 postcode: "57370"
 city: Phalsbourg
-street: "Rue des Glacis"
-housenumber: 2
-phone: "+33 3 87 24 18 83"
+street: Rue des Glacis
+housenumber: "2"
+phone: +33 3 87 24 18 83
 opening_hours: ""
-website: "www.e-leclerc.com"
+website: www.e-leclerc.com

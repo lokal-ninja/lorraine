@@ -4,8 +4,9 @@ latitude: 48.77148
 longitude: 5.16317
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Lapique"
-housenumber: 4
-phone: "+33 3 29 79 08 65"
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:00; Su off"
-website: "https://www.epitetecoiffure.fr/"
+street: Rue Lapique
+housenumber: "4"
+phone: +33 3 29 79 08 65
+opening_hours: Mo off; Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:00;
+    Su off
+website: https://www.epitetecoiffure.fr/

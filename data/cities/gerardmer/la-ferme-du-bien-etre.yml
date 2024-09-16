@@ -4,8 +4,8 @@ latitude: 48.08151
 longitude: 6.77715
 postcode: "88400"
 city: Gérardmer
-street: "Route d’Épinal"
-housenumber: 698
-phone: "+33 3 29 61 40 85"
-opening_hours: "Mo-Su 10:00-12:00,14:00-18:00;Su 10:00-12:00 off"
-website: "https://www.gaec-fermedubienetre.fr"
+street: Route d’Épinal
+housenumber: "698"
+phone: +33 3 29 61 40 85
+opening_hours: Mo-Su 10:00-12:00,14:00-18:00;Su 10:00-12:00 off
+website: https://www.gaec-fermedubienetre.fr

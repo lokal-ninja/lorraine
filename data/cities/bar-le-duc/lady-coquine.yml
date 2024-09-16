@@ -4,8 +4,8 @@ latitude: 48.75851
 longitude: 5.1903
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue des Brielles"
-housenumber: 8
-phone: "+33 3 29 70 66 87"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 09:30-19:00"
+street: Rue des Brielles
+housenumber: "8"
+phone: +33 3 29 70 66 87
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 09:30-19:00
 website: ""

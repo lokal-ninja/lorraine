@@ -1,11 +1,11 @@
 id: 140564478
-type: way
+type: node
 latitude: 49.19645
 longitude: 5.99519
 postcode: "57255"
 city: Ste Marie aux Chênes
-street: "Rue de Briey"
-housenumber: 30
+street: Rue de Briey
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

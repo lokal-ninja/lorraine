@@ -1,11 +1,11 @@
 id: 228231930
-type: way
+type: node
 latitude: 49.00103
 longitude: 7.37894
 postcode: "57620"
 city: Lemberg
-street: "Grand'Rue"
-housenumber: 32
-phone: "+33 3 87 06 40 43"
-opening_hours: "Mo-Fr 05:30-18:00; We,Sa 05:30-12:00; Su 06:30-12:00"
-website: "https://www.facebook.com/BoulangeriePatisserieMacaron/"
+street: Grand'Rue
+housenumber: "32"
+phone: +33 3 87 06 40 43
+opening_hours: Mo-Fr 05:30-18:00; We,Sa 05:30-12:00; Su 06:30-12:00
+website: https://www.facebook.com/BoulangeriePatisserieMacaron/

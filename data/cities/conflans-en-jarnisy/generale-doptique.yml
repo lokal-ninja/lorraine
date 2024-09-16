@@ -1,11 +1,11 @@
 id: 519224246
-type: way
+type: node
 latitude: 49.16456
 longitude: 5.84426
 postcode: "54800"
 city: Conflans-en-Jarnisy
-street: "Rue de Verdun"
-housenumber: 
+street: Rue de Verdun
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

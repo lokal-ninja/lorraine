@@ -4,8 +4,8 @@ latitude: 48.70236
 longitude: 6.17552
 postcode: "54000"
 city: Nancy
-street: "Rue du Faubourg des Trois-Maisons"
-housenumber: 47
-phone: "07 85 56 76 64"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:30-12:30"
-website: "https://www.sobio.fr/magasin/so-bio-nancy"
+street: Rue du Faubourg des Trois-Maisons
+housenumber: "47"
+phone: 07 85 56 76 64
+opening_hours: Mo-Sa 08:30-20:00; Su 09:30-12:30
+website: https://www.sobio.fr/magasin/so-bio-nancy

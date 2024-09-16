@@ -1,11 +1,11 @@
 id: 989291598
-type: way
+type: node
 latitude: 49.51494
 longitude: 5.75237
 postcode: "54400"
 city: Longwy
-street: "Rue de l'Europe"
-housenumber: 
+street: Rue de l'Europe
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 106943381
-type: way
+type: node
 latitude: 48.99247
 longitude: 7.29721
 postcode: "57415"
 city: Montbronn
-street: "Rue du Nassenwald"
-housenumber: 21
-phone: "+33 3 87 96 39 71"
+street: Rue du Nassenwald
+housenumber: "21"
+phone: +33 3 87 96 39 71
 opening_hours: ""
 website: ""

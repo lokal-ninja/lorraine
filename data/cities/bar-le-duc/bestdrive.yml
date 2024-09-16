@@ -4,8 +4,8 @@ latitude: 48.76994
 longitude: 5.16914
 postcode: "55000"
 city: Bar-le-Duc
-street: "Rue Ernest Bradfer"
-housenumber: 31
-phone: "+33 3 29 79 13 01"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su off"
-website: "https://bestdrive.fr/"
+street: Rue Ernest Bradfer
+housenumber: "31"
+phone: +33 3 29 79 13 01
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su off
+website: https://bestdrive.fr/

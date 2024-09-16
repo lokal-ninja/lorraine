@@ -1,11 +1,11 @@
 id: 1172384246
-type: way
+type: node
 latitude: 48.99873
 longitude: 7.33036
 postcode: "57415"
 city: Montbronn
-street: "Rue de Bitche"
-housenumber: 79
-phone: "+33 3 87 06 14 92"
-opening_hours: "Tu-Fr 04:00-18:30; Sa-Su 06:00-12:00"
-website: "https://www.jachetebitcherland.fr/aux-plaisirs-des-pains-34012"
+street: Rue de Bitche
+housenumber: "79"
+phone: +33 3 87 06 14 92
+opening_hours: Tu-Fr 04:00-18:30; Sa-Su 06:00-12:00
+website: https://www.jachetebitcherland.fr/aux-plaisirs-des-pains-34012

@@ -4,8 +4,8 @@ latitude: 48.20001
 longitude: 6.46759
 postcode: "88000"
 city: Epinal
-street: "Rue de la Bazaine"
-housenumber: 46
+street: Rue de la Bazaine
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.norma.fr"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.norma.fr

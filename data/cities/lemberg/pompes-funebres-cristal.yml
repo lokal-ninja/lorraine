@@ -1,11 +1,11 @@
 id: 228231753
-type: way
+type: node
 latitude: 49.00034
 longitude: 7.3641
 postcode: "57620"
 city: Lemberg
-street: "Rue des Genêts"
-housenumber: 
-phone: "+33 3 87 27 03 47"
-opening_hours: "Mo-Th 09:00-12:00,14:00-17:00; Fr 09:00-12:00,14:00-16:00"
-website: "http://funeurop.com/fr/"
+street: Rue des Genêts
+housenumber: ""
+phone: +33 3 87 27 03 47
+opening_hours: Mo-Th 09:00-12:00,14:00-17:00; Fr 09:00-12:00,14:00-16:00
+website: http://funeurop.com/fr/
