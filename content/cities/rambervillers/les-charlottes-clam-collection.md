@@ -1,5 +1,5 @@
 ---
-title: "Les Charlottes - Clam collection"
+title: "Les Charlottes - Clam Collection"
 url: /rambervillers/les-charlottes-clam-collection/
 shop: vêtements
 ---

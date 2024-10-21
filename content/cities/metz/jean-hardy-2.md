@@ -1,5 +1,5 @@
 ---
 title: "Jean Hardy"
-url: /metz/jean-hardy-rue-serpenoise-2/
+url: /metz/jean-hardy-2/
 shop: bijoux
 ---
