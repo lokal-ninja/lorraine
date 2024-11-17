@@ -1,6 +1,6 @@
 ---
 title: Saint-Louis-lès-Bitche
 url: /saint-louis-les-bitche/
-latitude: 48.99
-longitude: 7.359
+latitude: 48.988
+longitude: 7.355
 ---
