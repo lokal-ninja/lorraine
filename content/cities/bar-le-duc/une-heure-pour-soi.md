@@ -1,5 +1,5 @@
 ---
-title: "Une heure pour soi"
+title: "Une Heure Pour Soi"
 url: /bar-le-duc/une-heure-pour-soi/
-shop: beauté
+shop: parfumerie
 ---
