@@ -1,6 +1,6 @@
 ---
 title: Enchenberg
 url: /enchenberg/
-latitude: 49.013
-longitude: 7.339
+latitude: 49.012
+longitude: 7.34
 ---
