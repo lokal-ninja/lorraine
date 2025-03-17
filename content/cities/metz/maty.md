@@ -1,5 +1,5 @@
 ---
-title: "Maty"
+title: "MATY"
 url: /metz/maty/
 shop: bijoux
 ---
