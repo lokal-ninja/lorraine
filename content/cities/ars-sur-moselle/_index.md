@@ -1,6 +1,6 @@
 ---
 title: Ars-sur-Moselle
 url: /ars-sur-moselle/
-latitude: 49.075
-longitude: 6.076
+latitude: 49.086
+longitude: 6.088
 ---
