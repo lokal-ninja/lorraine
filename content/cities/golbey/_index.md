@@ -1,6 +1,6 @@
 ---
 title: Golbey
 url: /golbey/
-latitude: 48.192
-longitude: 6.419
+latitude: 48.191
+longitude: 6.426
 ---

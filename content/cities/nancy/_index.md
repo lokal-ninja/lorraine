@@ -1,6 +1,6 @@
 ---
 title: Nancy
 url: /nancy/
-latitude: 48.696
-longitude: 6.195
+latitude: 48.692
+longitude: 6.142
 ---
