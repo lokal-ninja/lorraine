@@ -1,6 +1,6 @@
 ---
 title: Soucht
 url: /soucht/
-latitude: 48.965
-longitude: 7.317
+latitude: 48.959
+longitude: 7.334
 ---
