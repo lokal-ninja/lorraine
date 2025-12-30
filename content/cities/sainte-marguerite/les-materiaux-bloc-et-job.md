@@ -1,5 +1,5 @@
 ---
 title: "Les Matériaux Bloc & Job"
 url: /sainte-marguerite/les-materiaux-bloc-et-job/
-shop: shop
+shop: à faire soi-même
 ---
