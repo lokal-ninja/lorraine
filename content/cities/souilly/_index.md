@@ -1,6 +1,6 @@
 ---
 title: Souilly
 url: /souilly/
-latitude: 49.028
-longitude: 5.286
+latitude: 49.031
+longitude: 5.288
 ---
