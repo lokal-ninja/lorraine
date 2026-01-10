@@ -1,6 +1,6 @@
 ---
 title: Metz
 url: /metz/
-latitude: 49.12
-longitude: 6.218
+latitude: 49.107
+longitude: 6.191
 ---
