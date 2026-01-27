@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
-url: /pont-a-mousson/kiabi/
+url: /contrexeville/kiabi/
 shop: vêtements
 ---
