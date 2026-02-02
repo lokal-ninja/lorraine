@@ -1,6 +1,6 @@
 ---
 title: Montbronn
 url: /montbronn/
-latitude: 48.998
-longitude: 7.292
+latitude: 48.996
+longitude: 7.323
 ---
