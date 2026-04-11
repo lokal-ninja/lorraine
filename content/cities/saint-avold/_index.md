@@ -1,6 +1,6 @@
 ---
 title: Saint-Avold
 url: /saint-avold/
-latitude: 49.104
-longitude: 6.708
+latitude: 49.105
+longitude: 6.701
 ---
