@@ -1,6 +1,6 @@
 ---
 title: Velaines
 url: /velaines/
-latitude: 48.704
-longitude: 5.298
+latitude: 48.708
+longitude: 5.29
 ---
