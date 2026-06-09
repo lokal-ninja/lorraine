@@ -1,5 +1,5 @@
 ---
 title: "Lovely Lisa"
 url: /gerardmer/lovely-lisa-boulevard-kelsch/
-shop: vêtements
+shop: magasin de campagne
 ---
