@@ -7,5 +7,5 @@ city: Le Val d'Ajol
 street: Les Rabeaux
 housenumber: "5"
 phone: +33 3 29 66 54 14
-opening_hours: Mo-We 8:30-19:30 Fr-Sa 8:30-19:30
+opening_hours: Mo-We,Fr-Sa 08:30-19:30
 website: http://www.petitjeanjacques.com/

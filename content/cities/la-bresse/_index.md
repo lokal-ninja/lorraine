@@ -1,6 +1,6 @@
 ---
 title: La Bresse
 url: /la-bresse/
-latitude: 48.007
-longitude: 6.883
+latitude: 48.037
+longitude: 6.968
 ---
