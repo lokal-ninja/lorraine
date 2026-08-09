@@ -1,5 +1,5 @@
 ---
 title: "Emmaüs"
 url: /sarreguemines/emmaus-rue-de-steinbach/
-shop: shop
+shop: vacant
 ---

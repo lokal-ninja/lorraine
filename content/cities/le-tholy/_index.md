@@ -1,6 +1,6 @@
 ---
 title: Le Tholy
 url: /le-tholy/
-latitude: 48.095
-longitude: 6.753
+latitude: 48.083
+longitude: 6.744
 ---
