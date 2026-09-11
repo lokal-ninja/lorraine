@@ -1,6 +1,6 @@
 ---
 title: Yutz
 url: /yutz/
-latitude: 49.357
-longitude: 6.188
+latitude: 49.349
+longitude: 6.177
 ---
