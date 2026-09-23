@@ -1,6 +1,6 @@
 ---
 title: Ludres
 url: /ludres/
-latitude: 48.617
-longitude: 6.181
+latitude: 48.616
+longitude: 6.192
 ---
