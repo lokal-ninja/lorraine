@@ -1,6 +1,6 @@
 ---
 title: Tomblaine
 url: /tomblaine/
-latitude: 48.684
-longitude: 6.215
+latitude: 48.686
+longitude: 6.221
 ---
