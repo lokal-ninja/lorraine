@@ -1,6 +1,6 @@
 ---
 title: Vaucouleurs
 url: /vaucouleurs/
-latitude: 48.608
+latitude: 48.601
 longitude: 5.666
 ---
