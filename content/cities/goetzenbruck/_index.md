@@ -1,6 +1,6 @@
 ---
 title: Goetzenbruck
 url: /goetzenbruck/
-latitude: 48.968
-longitude: 7.374
+latitude: 48.991
+longitude: 7.382
 ---
