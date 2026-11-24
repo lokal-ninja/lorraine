@@ -7,6 +7,5 @@ city: Sarrebourg
 street: Rue de la Marne
 housenumber: "3"
 phone: +33 3 87 23 49 82
-opening_hours: Tu 09:00-12:15, 14:30-18:30; We 09:00-12:15, 14:00-18:00; Th 09:15-12:15;
-    Fr-Sa 09:15-12:15, 14:30-18:00
+opening_hours: Tu-Fr 09:00-12:15,14:30-18:30; Th 09:00-12:15; Sa 09:00-12:15,14:30-18:00
 website: https://boutique.leventredelabaleine.com
